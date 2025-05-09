@@ -1,0 +1,41 @@
+id,city,query,class
+R0,Paris,"Could you guide me on how to walk from the Basilique du Sacré-Cœur de Montmartre to Cimetière de Montmartre?",spatial
+R0.Q1,Paris,"What is le Passe-Muraille? Who is the designer?",information
+R0.Q2,Paris,"Who is the architect of the Basilique du Sacré-Cœur de Montmartre?",information
+R0.Q3,Paris,"Which kind of attraction is the Moulin de la Galette?",information
+R1,Paris,"I'd like to go from Saint-chapelle to Pantheon in Paris by foot. I prefer a route with few cars.",spatial 
+R1.Q1,Paris,"Which kind of museum is Musée de Cluny?",information
+R1.Q2,Paris,"Who is Pierre Corneille?",information
+R1.Q3,Paris,"Why Palais de Justice de Paris is named like that?",information
+R2,Paris,"I'm near Trocadéro in Paris and want to walk to the Arc de Triomphe. Could you suggest a wheelchair-friendly route?",spatial
+R2.Q1,Paris,"Is there a museum in the Musée de l'Arc de Triomphe?",information
+R2.Q2,Paris,"In which year was the Palais de Chaillot built?",information
+R2.Q3,Paris,"I see an artwork called La Jeunesse. What kind of artwork is?",information
+R3,Paris,"Can you help me find my way on foot from Place des Vosges to Jardin des Plantes in Paris? I'd like to take a coffee and see an artwork on the way.",spatial
+R3.Q1,Paris,"Who is Henri Galli?",information
+R3.Q2,Paris,"Where is the source of the Seine river?",information
+R3.Q3,Paris,"What kind of museum is Musée de la Sculpture en Plein Air?",information
+R4,Paris,"I'm arriving at Paris Charles de Gaulle International Airport and was thinking about walking to my hotel in 1 All. du Verger, Roissy-en-France. I prefer a green path.",spatial
+R4.Q1,Paris,"Why the Paris airport is named after Charles de Gaulle?",information
+R4.Q2,Paris,"How many terminals are there in Paris Charles de Gaulle International Airport?",information
+R4.Q3,Paris,"Which species of plants is the Cèdre du Liban?",information
+R5,Paris,"Can you provide me with a walking route from the Paris–Orly Airport to the my hotel in Avenue Jacqueline Auriol Orlytech, Paray-Vieille-Poste?",spatial
+R5.Q1,Pisa,"How many botanical gardens are there in Pisa?",information
+R5.Q2,Pisa,"Is the pizza a typical dish of Pisa?",information
+R5.Q3,Pisa,"What is the material of the Porta della Sapienza statue?",information
+R6,Paris,"Hey, what's the way to walk from Notre-Dame de Paris to the Louvre Museum? Can I buy a souvenir and eat something tipical on the way?",spatial
+R6.Q1,Paris,"What kind of mus is Crypte Archéologique du Parvis Notre-Dame?",information
+R6.Q2, Paris,"I remember that Pont au Change was cited in a famous novel. Do you know which one?",information
+R6.Q3,Paris,"I see many creperies in this itinerary. Is the crêpe the most typical dish of Paris?",information
+R7,Paris,"Can you help me find a walking route from the Opera Garnier to the Moulin Rouge? I want to have a coffee on the way.",spatial
+R7.Q1,Paris,"What kind of artwork is Édicule Guimard?",information
+R7.Q2,Paris,"Which kind of spectacle I can find in the Moulin Rouge?",information
+R7.Q3,Paris,"The Palais Garnier is also known as the Opéra Garnier. Do you know why?",information
+R8,Paris,"I'd like to walk from the Museé d'Orsay to Place de la Concorde. Can you suggest a route with few cars?",spatial
+R8.Q1,Paris,"What are the most famous artists in the Musée d'Orsay in Paris?",information
+R8.Q2,Paris,"There are five artworks that seem to be inspired by the five continents. Tell me more about them.",information
+R8.Q3,Paris,"What kind of museum is the Musée de l'Orangerie?",information
+R9,Paris,"Can you help me find a walking route from the Eiffel tower of Paris to the Champ Élyseés? I want to see a street artist on the way.",spatial
+R9.Q1,Paris,"What is the designer of Champ de Mars?",information
+R9.Q2,Paris,"In which year is Flamme de la Liberté built?",information
+R9.Q3,Paris,"Which kind of museum is the Musée du Quai Branly – Jacques Chirac?",information
