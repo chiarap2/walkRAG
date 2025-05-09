@@ -3,7 +3,7 @@ R0,Paris,"Could you guide me on how to walk from the Basilique du Sacré-Cœur d
 R0.Q1,Paris,"What is le Passe-Muraille? Who is the designer?",information
 R0.Q2,Paris,"Who is the architect of the Basilique du Sacré-Cœur de Montmartre?",information
 R0.Q3,Paris,"Which kind of attraction is the Moulin de la Galette?",information
-R1,Paris,"I'd like to go from Saint-chapelle to Pantheon in Paris by foot. I prefer a route with few cars.",spatial 
+R1,Paris,"I'd like to go from Sainte-chapelle to Pantheon in Paris by foot. I prefer a route with few cars.",spatial 
 R1.Q1,Paris,"Which kind of museum is Musée de Cluny?",information
 R1.Q2,Paris,"Who is Pierre Corneille?",information
 R1.Q3,Paris,"Why Palais de Justice de Paris is named like that?",information

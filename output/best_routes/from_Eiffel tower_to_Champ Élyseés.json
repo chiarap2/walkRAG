@@ -1,0 +1,1122 @@
+{
+    "route_id": 2,
+    "length_m": 3222.0848074371534,
+    "walkability_score": 0.5931506849315069,
+    "air_quality": "Fair",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 132,
+            "instruction": "Continue onto Avenue Gustave Eiffel",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars",
+                        "Pavillon Ferrié",
+                        "Pavillon Eiffel"
+                    ],
+                    "viewpoint": [
+                        "Tour Eiffel 2e étage",
+                        "Tour Eiffel 3e étage"
+                    ],
+                    "gallery": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Hêtre pleureur"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 133,
+            "instruction": "Turn left onto Allée Jean Paulhan",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Hêtre pleureur"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 134,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Hêtre pleureur"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 135,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Hêtre pleureur"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 136,
+            "instruction": "Keep right",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Hêtre pleureur"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 137,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Hêtre pleureur"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 138,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 139,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 140,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 141,
+            "instruction": "Continue onto Rue de l'Université",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 142,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 143,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 144,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ],
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 145,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ],
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 146,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ],
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 147,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Champ de Mars"
+                    ],
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Champ de Mars"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 148,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 149,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 150,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 151,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 152,
+            "instruction": "Continue onto Esplanade David Ben-Gourion",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 153,
+            "instruction": "Continue onto Passerelle Debilly",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Passerelle Debilly"
+                    ],
+                    "museum": [
+                        "Musée du quai Branly - Jacques Chirac",
+                        "Palais de Tokyo"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 154,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Palais de Tokyo"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 155,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Palais de Tokyo"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 156,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Palais de Tokyo"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 157,
+            "instruction": "Turn right onto Rue de la Manutention",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Palais de Tokyo"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 158,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Palais de Tokyo"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 159,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Palais de Tokyo"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 160,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Palais de Tokyo"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Brignole-Galliera"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 161,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Palais de Tokyo"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Brignole-Galliera"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 162,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Palais de Tokyo"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Brignole-Galliera"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 163,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 164,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 165,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 166,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 167,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 168,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 169,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 170,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 171,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 172,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 173,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 174,
+            "instruction": "Keep left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 175,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 176,
+            "instruction": "Turn left onto Place d'Iéna",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 177,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 178,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 179,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée Guimet",
+                        "Hôtel d'Heidelbach"
+                    ],
+                    "attraction": [
+                        "Jardin Japonais",
+                        "Maison Traditionnelle Japonaise"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Japonais"
+                    ],
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 180,
+            "instruction": "Turn left",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 181,
+            "instruction": "Turn right",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 182,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 183,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 184,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 185,
+            "instruction": "Turn right",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 186,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 187,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 188,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 189,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 190,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 191,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 192,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 193,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Square Thomas Jefferson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 194,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 195,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 196,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 197,
+            "instruction": "Continue onto Rue Galilée",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 198,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 199,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 200,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 201,
+            "instruction": "Keep left onto Rue Galilée",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 202,
+            "instruction": "Turn sharp left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 203,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 204,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        }
+    ]
+}

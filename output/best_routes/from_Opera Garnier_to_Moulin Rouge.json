@@ -1,0 +1,1739 @@
+{
+    "route_id": 1,
+    "length_m": 2394.189955604383,
+    "walkability_score": 0.6458333333333333,
+    "air_quality": "Fair",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 81,
+            "instruction": "Continue",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 82,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 83,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 84,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 85,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 86,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "bonboncha"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 87,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra",
+                        "Musée du Parfum Fragonard"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "bonboncha"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 88,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra",
+                        "Musée du Parfum Fragonard"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "bonboncha"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 89,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra",
+                        "Musée du Parfum Fragonard"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "bonboncha"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 90,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra",
+                        "Musée du Parfum Fragonard"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "bonboncha"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 91,
+            "instruction": "Keep right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra",
+                        "Musée du Parfum Fragonard"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "bonboncha"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 92,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 93,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 94,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Bibliothèque-Musée de l'Opéra"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 95,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 96,
+            "instruction": "Turn right onto Rue Scribe",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 97,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 98,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar",
+                        "Starving Club Galeries Lafayette Gourmet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 99,
+            "instruction": "Keep left onto Place Diaghilev",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar",
+                        "Starving Club Galeries Lafayette Gourmet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 100,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar",
+                        "Starving Club Galeries Lafayette Gourmet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 101,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar",
+                        "Starving Club Galeries Lafayette Gourmet"
+                    ],
+                    "cafe": [
+                        "Café de l'Opéra",
+                        "Joe & The Juice"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 102,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar"
+                    ],
+                    "cafe": [
+                        "Café de l'Opéra",
+                        "Joe & The Juice"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 103,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar"
+                    ],
+                    "cafe": [
+                        "Café de l'Opéra",
+                        "Joe & The Juice"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 104,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar"
+                    ],
+                    "cafe": [
+                        "Café de l'Opéra",
+                        "Joe & The Juice"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 105,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar"
+                    ],
+                    "cafe": [
+                        "Café de l'Opéra",
+                        "Joe & The Juice"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 106,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar"
+                    ],
+                    "cafe": [
+                        "Café de l'Opéra",
+                        "Joe & The Juice"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 107,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "La Terasse des Galeries Lafayette"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Cube Bar"
+                    ],
+                    "cafe": [
+                        "Café de l'Opéra",
+                        "Joe & The Juice",
+                        "CoCo Fresh Tea & Juice",
+                        "Café Gallery",
+                        "Titine Bubble Tea"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 108,
+            "instruction": "Turn right",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Café de l'Opéra",
+                        "Joe & The Juice",
+                        "CoCo Fresh Tea & Juice",
+                        "Café Gallery",
+                        "Titine Bubble Tea"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 109,
+            "instruction": "Turn left onto Rue de Mogador",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "amenity": {
+                    "cafe": [
+                        "Café de l'Opéra",
+                        "Joe & The Juice",
+                        "CoCo Fresh Tea & Juice",
+                        "Café Gallery",
+                        "Titine Bubble Tea"
+                    ],
+                    "bar": [
+                        "Le Petit Carlat",
+                        "La Cafétéria",
+                        "Maker"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 110,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "amenity": {
+                    "cafe": [
+                        "CoCo Fresh Tea & Juice",
+                        "Titine Bubble Tea"
+                    ],
+                    "bar": [
+                        "Le Petit Carlat",
+                        "La Cafétéria",
+                        "Maker"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 111,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "amenity": {
+                    "cafe": [
+                        "CoCo Fresh Tea & Juice"
+                    ],
+                    "bar": [
+                        "Le Petit Carlat",
+                        "La Cafétéria",
+                        "Maker"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 112,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "amenity": {
+                    "cafe": [
+                        "CoCo Fresh Tea & Juice",
+                        "Momentea",
+                        "Braun Notes"
+                    ],
+                    "bar": [
+                        "Le Petit Carlat",
+                        "La Cafétéria",
+                        "Maker"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 113,
+            "instruction": "Turn right",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Momentea",
+                        "Braun Notes"
+                    ],
+                    "bar": [
+                        "Maker"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 114,
+            "instruction": "Turn slight right",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Momentea",
+                        "Braun Notes",
+                        "Royal Trinité"
+                    ],
+                    "bar": [
+                        "Maker"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 115,
+            "instruction": "Turn left",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Braun Notes",
+                        "Royal Trinité"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 116,
+            "instruction": "Turn right",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Royal Trinité",
+                        "La Rotonde"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 117,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Royal Trinité",
+                        "La Rotonde"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 118,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Royal Trinité",
+                        "La Rotonde"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 119,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Royal Trinité",
+                        "La Rotonde"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 120,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "La Rotonde"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 121,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "La Rotonde"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 122,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "La Rotonde"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 123,
+            "instruction": "Turn right",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "La Rotonde"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 124,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "La Rotonde",
+                        "Hanoï Corner"
+                    ],
+                    "bar": [
+                        "Le Brigadier"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 125,
+            "instruction": "Turn right",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "La Rotonde",
+                        "Hanoï Corner"
+                    ],
+                    "bar": [
+                        "Le Brigadier"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 126,
+            "instruction": "Turn left",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "La Rotonde",
+                        "Hanoï Corner"
+                    ],
+                    "bar": [
+                        "Le Brigadier"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square d'Estienne d'Orves"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Noyer du Caucase"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 127,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "bar": [
+                        "Le Brigadier"
+                    ],
+                    "cafe": [
+                        "Hanoï Corner"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 128,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "bar": [
+                        "Le Brigadier"
+                    ],
+                    "cafe": [
+                        "Hanoï Corner"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 129,
+            "instruction": "Turn right",
+            "poi": {
+                "amenity": {
+                    "bar": [
+                        "Le Brigadier",
+                        "Café Du Théatre"
+                    ],
+                    "cafe": [
+                        "Hanoï Corner"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 130,
+            "instruction": "Turn right",
+            "poi": {
+                "amenity": {
+                    "bar": [
+                        "Le Brigadier",
+                        "Café Du Théatre"
+                    ],
+                    "cafe": [
+                        "Hanoï Corner"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 131,
+            "instruction": "Turn left",
+            "poi": {
+                "amenity": {
+                    "bar": [
+                        "Le Brigadier",
+                        "Café Du Théatre"
+                    ],
+                    "cafe": [
+                        "Hanoï Corner"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 132,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Artivistas"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Teillebon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 133,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Artivistas"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Teillebon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 134,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Artivistas"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Teillebon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 135,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Artivistas"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Teillebon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 136,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Artivistas"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Teillebon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 137,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Artivistas"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Teillebon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 138,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Artivistas",
+                        "Mu Gallery Paris",
+                        "Cerca Trova"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Teillebon",
+                        "Le Bla Bla Café"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 139,
+            "instruction": "Turn slight left",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Mu Gallery Paris",
+                        "Cerca Trova"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Le Bla Bla Café"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 140,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "ArtKraft galerie",
+                        "Mu Gallery Paris",
+                        "Cerca Trova"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Ballu"
+                    ],
+                    "bar": [
+                        "Le Bla Bla Café",
+                        "Scandle",
+                        "Le Balluchon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 141,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "ArtKraft galerie",
+                        "Mu Gallery Paris",
+                        "Cerca Trova"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Ballu"
+                    ],
+                    "bar": [
+                        "Le Bla Bla Café",
+                        "Scandle",
+                        "Le Balluchon"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Pauline-García-Viardot"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 142,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "ArtKraft galerie",
+                        "Mu Gallery Paris",
+                        "Cerca Trova"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Ballu"
+                    ],
+                    "bar": [
+                        "Le Bla Bla Café",
+                        "Scandle",
+                        "Le Balluchon"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Pauline-García-Viardot"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 143,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "ArtKraft galerie",
+                        "Mu Gallery Paris",
+                        "Cerca Trova"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Ballu"
+                    ],
+                    "bar": [
+                        "Le Bla Bla Café",
+                        "Scandle",
+                        "Le Balluchon"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Pauline-García-Viardot"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 144,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "ArtKraft galerie",
+                        "Mu Gallery Paris",
+                        "Cerca Trova"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Ballu"
+                    ],
+                    "bar": [
+                        "Le Bla Bla Café",
+                        "Scandle",
+                        "Le Balluchon"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Pauline-García-Viardot"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 145,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Le Ballu"
+                    ],
+                    "bar": [
+                        "Scandle",
+                        "Le Balluchon"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Pauline-García-Viardot"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 146,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "bar": [
+                        "Le Balluchon"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 147,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Café Cham",
+                        "Liperli"
+                    ],
+                    "bar": [
+                        "Le Balluchon"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 148,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Café Cham",
+                        "Liperli"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 149,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Café Cham",
+                        "Liperli",
+                        "Ali Baba"
+                    ],
+                    "bar": [
+                        "La P'tite Mousse",
+                        "Carte blanche"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 150,
+            "instruction": "Turn slight right",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Café Cham",
+                        "Liperli",
+                        "Ali Baba"
+                    ],
+                    "bar": [
+                        "La P'tite Mousse",
+                        "Carte blanche"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 151,
+            "instruction": "Turn slight left",
+            "poi": {
+                "amenity": {
+                    "cafe": [
+                        "Café Cham",
+                        "Liperli",
+                        "Ali Baba"
+                    ],
+                    "bar": [
+                        "La P'tite Mousse",
+                        "Carte blanche",
+                        "L'intrépide Bar"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 152,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Café Cham",
+                        "Liperli",
+                        "Ali Baba",
+                        "Starbucks"
+                    ],
+                    "bar": [
+                        "La P'tite Mousse",
+                        "Carte blanche",
+                        "L'intrépide Bar",
+                        "La Calle Loca",
+                        "Brussels Beer Project // Pigalle"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 153,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Carte blanche",
+                        "L'intrépide Bar",
+                        "La Calle Loca",
+                        "Brussels Beer Project // Pigalle"
+                    ],
+                    "cafe": [
+                        "Starbucks"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 154,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "L'intrépide Bar",
+                        "Brussels Beer Project // Pigalle"
+                    ],
+                    "cafe": [
+                        "Starbucks"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 155,
+            "instruction": "Turn slight left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Starbucks"
+                    ],
+                    "bar": [
+                        "Brussels Beer Project // Pigalle"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 156,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Starbucks"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 157,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Starbucks"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 158,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 159,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 160,
+            "instruction": "Keep right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Bar à Bulles"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 161,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Starbucks"
+                    ],
+                    "bar": [
+                        "Bar à Bulles"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 162,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Starbucks"
+                    ],
+                    "bar": [
+                        "Bar à Bulles",
+                        "Brussels Beer Project // Pigalle",
+                        "The Station"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 163,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Starbucks"
+                    ],
+                    "bar": [
+                        "Bar à Bulles",
+                        "Brussels Beer Project // Pigalle",
+                        "The Station"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 164,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Starbucks"
+                    ],
+                    "bar": [
+                        "Bar à Bulles",
+                        "Brussels Beer Project // Pigalle",
+                        "The Station"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1487 @@
+{
+    "route_id": 0,
+    "length_m": 10812.757350126047,
+    "walkability_score": 0.2111290322580645,
+    "air_quality": "Moderate",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 0,
+            "instruction": "Continue",
+            "poi": {}
+        },
+        {
+            "segment_id": 1,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 2,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 3,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 4,
+            "instruction": "Turn right onto Quai 2",
+            "poi": {}
+        },
+        {
+            "segment_id": 5,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 6,
+            "instruction": "Keep right",
+            "poi": {}
+        },
+        {
+            "segment_id": 7,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 8,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 9,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 10,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 11,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 12,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 13,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 14,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 15,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 16,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 17,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 18,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 19,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 20,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 21,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 22,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 23,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 24,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 25,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 26,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 27,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 28,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 29,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 30,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 31,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 32,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 33,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 34,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 35,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 36,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 37,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 38,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 39,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 40,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 41,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 42,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 43,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 44,
+            "instruction": "Turn sharp right",
+            "poi": {}
+        },
+        {
+            "segment_id": 45,
+            "instruction": "Keep right",
+            "poi": {}
+        },
+        {
+            "segment_id": 46,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 47,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 48,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 49,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 50,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 51,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 52,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 53,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 54,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 55,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 56,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 57,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 58,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 59,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 60,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 61,
+            "instruction": "Turn slight left",
+            "poi": {}
+        },
+        {
+            "segment_id": 62,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 63,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 64,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 65,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 66,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 67,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 68,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 69,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 70,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 71,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 72,
+            "instruction": "Keep right",
+            "poi": {}
+        },
+        {
+            "segment_id": 73,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 74,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 75,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 76,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 77,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 78,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 79,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 80,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 81,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 82,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 83,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 84,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 85,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 86,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 87,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 88,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 89,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 90,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 91,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 92,
+            "instruction": "Keep right onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 93,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 94,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 95,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 96,
+            "instruction": "Turn right onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 97,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 98,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 99,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 100,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 101,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 102,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 103,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 104,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 105,
+            "instruction": "Continue onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 106,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 107,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 108,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 109,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 110,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 111,
+            "instruction": "Keep left onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 112,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 113,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 114,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 115,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 116,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 117,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 118,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 119,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 120,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 121,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 122,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 123,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 124,
+            "instruction": "Continue onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 125,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 126,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 127,
+            "instruction": "Continue",
+            "poi": {}
+        },
+        {
+            "segment_id": 128,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 129,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 130,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 131,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 132,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 133,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 134,
+            "instruction": "Turn slight left and drive toward Cargo 4-5-6-7 Centre commercial Aéroville",
+            "poi": {}
+        },
+        {
+            "segment_id": 135,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 136,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 137,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 138,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 139,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 140,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 141,
+            "instruction": "At roundabout, take exit 1",
+            "poi": {}
+        },
+        {
+            "segment_id": 142,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 143,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 144,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 145,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 146,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 147,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 148,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 149,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 150,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 151,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 152,
+            "instruction": "Continue",
+            "poi": {}
+        },
+        {
+            "segment_id": 153,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 154,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 155,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 156,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 157,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 158,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 159,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 160,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 161,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 162,
+            "instruction": "At roundabout, take exit 1",
+            "poi": {}
+        },
+        {
+            "segment_id": 163,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 164,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 165,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 166,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 167,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 168,
+            "instruction": "Turn sharp right",
+            "poi": {}
+        },
+        {
+            "segment_id": 169,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 170,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 171,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 172,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 173,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 174,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 175,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 176,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 177,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 178,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 179,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 180,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 181,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 182,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 183,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 184,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 185,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 186,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 187,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 188,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 189,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 190,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 191,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 192,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 193,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 194,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 195,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 196,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 197,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 198,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 199,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 200,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 201,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 202,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 203,
+            "instruction": "Turn right onto Chemin de la Mesnil",
+            "poi": {}
+        },
+        {
+            "segment_id": 204,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 205,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 206,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 207,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 208,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 209,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 210,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 211,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 212,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 213,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 214,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 215,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 216,
+            "instruction": "Keep right",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 217,
+            "instruction": "Turn sharp left",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 218,
+            "instruction": "Turn right",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 219,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 220,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 221,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 222,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 223,
+            "instruction": "Turn right",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 224,
+            "instruction": "Turn left",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 225,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 226,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 227,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 228,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 229,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 230,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 231,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 232,
+            "instruction": "Turn left onto Allée du Verger",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 233,
+            "instruction": "Keep right onto Allée du Verger",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 234,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 235,
+            "instruction": "At roundabout, take exit 2 onto Allée du Verger",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 236,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 237,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 238,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 239,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 240,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 241,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 242,
+            "instruction": "Turn slight left onto Allée du Verger",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 243,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 244,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 245,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 246,
+            "instruction": "Arrive at destination",
+            "poi": {}
+        },
+        {
+            "segment_id": 247,
+            "instruction": "Arrive at destination",
+            "poi": {}
+        }
+    ]
+}

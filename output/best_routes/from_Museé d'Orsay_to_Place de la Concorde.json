@@ -1,0 +1,468 @@
+{
+    "route_id": 0,
+    "length_m": 1569.1353598910607,
+    "walkability_score": 0.63125,
+    "air_quality": "Fair",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 0,
+            "instruction": "Continue",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée d'Orsay"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 1,
+            "instruction": "Keep right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée d'Orsay"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 2,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée d'Orsay"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 3,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée d'Orsay"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                }
+            }
+        },
+        {
+            "segment_id": 4,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée d'Orsay"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                }
+            }
+        },
+        {
+            "segment_id": 5,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée d'Orsay"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 6,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée d'Orsay"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 7,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée d'Orsay"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 8,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée d'Orsay"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 9,
+            "instruction": "Turn right",
+            "poi": {
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 10,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 11,
+            "instruction": "Turn right onto Passerelle Léopold-Sédar-Senghor",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 12,
+            "instruction": "Keep left onto Passerelle Léopold-Sédar-Senghor",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 13,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 14,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 15,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 16,
+            "instruction": "Turn left",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 17,
+            "instruction": "Turn right",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ],
+                    "garden": [
+                        "Potager"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 18,
+            "instruction": "Turn left onto Quai des Tuileries",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée de l'Orangerie"
+                    ],
+                    "artwork": [
+                        "Meditation Avec Bras",
+                        "Ève",
+                        "L'Ombre"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ],
+                    "garden": [
+                        "Potager"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 19,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée de l'Orangerie"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 20,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée de l'Orangerie"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 21,
+            "instruction": "Turn left onto Quai des Tuileries",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée de l'Orangerie"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 22,
+            "instruction": "Turn right onto Place de la Concorde",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée de l'Orangerie"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 23,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée de l'Orangerie"
+                    ],
+                    "artwork": [
+                        "Grand Commandement Blanc"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 24,
+            "instruction": "Turn left onto Place de la Concorde",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée de l'Orangerie"
+                    ],
+                    "artwork": [
+                        "Grand Commandement Blanc"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 25,
+            "instruction": "N/A",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Jardin des Tuileries"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 26,
+            "instruction": "Turn right onto Place de la Concorde",
+            "poi": {}
+        },
+        {
+            "segment_id": 27,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 28,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Obélisque de Louxor"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 29,
+            "instruction": "Turn left onto Place de la Concorde",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Obélisque de Louxor"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 30,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Obélisque de Louxor"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 31,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Obélisque de Louxor"
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -124,6 +124,10 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
         cols.append(key)
     routes_gdf = routes_gdf.drop_duplicates(subset=[cols])
     
+    for key in walkability_indicators.keys():
+        if key in routes_gdf.columns:
+            routes_gdf = routes_gdf[routes_gdf[key].isin(walkability_indicators[key]) | routes_gdf[key].isnull()]
+    
     #----- GET BEST ROUTE -----
     routes_grouped = routes_gdf.groupby("route_id")
 
@@ -170,7 +174,10 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
         
             # Use the first row's instruction as the segment instruction (default to "N/A" if missing).
             instruction = seg_group["instruction"].iloc[0] if "instruction" in seg_group.columns and pd.notna(seg_group["instruction"].iloc[0]) else "N/A"
-            poi_details = aggregate_segment_pois_by_type(seg_group)
+            categories_list = pois_list
+            categories_list = categories_list + ["leisure", "natural"]
+            
+            poi_details = aggregate_segment_pois_by_type(seg_group, detailed_categories=categories_list)
             segments_info.append({
                 "segment_id": seg_id,
                 "instruction": instruction,
@@ -198,7 +205,6 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
             "route_id": route_id,
             "from": place_A,
             "to": place_B,
-            # "geometry": aggregated_geom.__geo_interface__,  # GeoJSON format
             "length_m": route_length,
             "walkability_score": walk_score,
             "air_quality": aqi,
@@ -211,7 +217,12 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
         best_route = max(routes_summary, key=lambda x: x["walkability_score"])
         
         # Save the best route to a JSON file.
-        with open("best_route.json", "w", encoding="utf-8") as f:
+        
+        # remove everything after the first comma
+        place_A = place_A.split(",")[0]
+        place_B = place_B.split(",")[0]
+        
+        with open(f"../../output/best_routes/best_route_from_{place_A}_to_{place_B}.json", "w", encoding="utf-8") as f:
             json.dump(best_route, f, ensure_ascii=False, indent=4)
 
         print("File best_route.json saved successfully.")

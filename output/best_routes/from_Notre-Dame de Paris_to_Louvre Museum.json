@@ -1,0 +1,1324 @@
+{
+    "route_id": 2,
+    "length_m": 2537.68787147282,
+    "walkability_score": 0.6350877192982456,
+    "air_quality": "Fair",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 128,
+            "instruction": "Continue",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Rosace Sud",
+                        "Rosace Ouest",
+                        "Galerie des Rois",
+                        "Rosace Nord"
+                    ],
+                    "attraction": [
+                        "Point zéro des Routes de France"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "L'ombre de Notre-Dame"
+                    ],
+                    "restaurant": [
+                        "Crêperie du Cloître"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 129,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Rosace Ouest",
+                        "Galerie des Rois"
+                    ],
+                    "attraction": [
+                        "Point zéro des Routes de France"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "L'ombre de Notre-Dame"
+                    ],
+                    "restaurant": [
+                        "Crêperie du Cloître"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 130,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Rosace Ouest",
+                        "Galerie des Rois"
+                    ],
+                    "attraction": [
+                        "Point zéro des Routes de France"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "L'ombre de Notre-Dame"
+                    ],
+                    "restaurant": [
+                        "Crêperie du Cloître"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 131,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Rosace Ouest",
+                        "Galerie des Rois"
+                    ],
+                    "attraction": [
+                        "Point zéro des Routes de France"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "L'ombre de Notre-Dame"
+                    ],
+                    "restaurant": [
+                        "Crêperie du Cloître"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 132,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Rosace Ouest",
+                        "Galerie des Rois"
+                    ],
+                    "attraction": [
+                        "Point zéro des Routes de France"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "L'ombre de Notre-Dame"
+                    ],
+                    "restaurant": [
+                        "Crêperie du Cloître"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 133,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Rosace Ouest",
+                        "Galerie des Rois",
+                        "Notre-Dame de Paris",
+                        "Charlemagne et ses leudes"
+                    ],
+                    "attraction": [
+                        "Point zéro des Routes de France"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "L'ombre de Notre-Dame"
+                    ],
+                    "restaurant": [
+                        "Crêperie du Cloître"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 134,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 135,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 136,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 137,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 138,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris",
+                        "Charlemagne et ses leudes"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 139,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris",
+                        "Charlemagne et ses leudes"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 140,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 141,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 142,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 143,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 144,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 145,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 146,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 147,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Notre-Dame de Paris"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 148,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "La Bûcherie",
+                        "Le Petit Pont",
+                        "Hestia"
+                    ],
+                    "bar": [
+                        "Georges Café"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 149,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "La Bûcherie",
+                        "Le Petit Pont",
+                        "Red Grill",
+                        "Hestia"
+                    ],
+                    "bar": [
+                        "Georges Café"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 150,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "La Bûcherie",
+                        "Le Petit Pont",
+                        "Red Grill",
+                        "Hestia"
+                    ],
+                    "bar": [
+                        "Georges Café"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 151,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Sartoni & Cerveau"
+                    ],
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Rosie's Smokehouse",
+                        "La Bûcherie",
+                        "Le Petit Pont",
+                        "Red Grill",
+                        "Hestia"
+                    ],
+                    "bar": [
+                        "Georges Café"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 152,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Sartoni & Cerveau"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Rosie's Smokehouse",
+                        "Chez Suzette",
+                        "Red Grill",
+                        "Hestia"
+                    ],
+                    "bar": [
+                        "Georges Café"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 153,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ],
+                    "gallery": [
+                        "Sartoni & Cerveau"
+                    ],
+                    "viewpoint": [
+                        "Notre Dame"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Rosie's Smokehouse",
+                        "Chez Suzette",
+                        "Maison Blanche",
+                        "Le Paradis du Fruit",
+                        "Red Grill",
+                        "Hestia"
+                    ],
+                    "cafe": [
+                        "Albe Café",
+                        "Le Départ Saint-Michel"
+                    ],
+                    "bar": [
+                        "Bistrot 27",
+                        "Alexandre",
+                        "Babil",
+                        "Le Pub Saint Michel",
+                        "Georges Café"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 154,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Départ Saint-Michel"
+                    ],
+                    "restaurant": [
+                        "Le Paradis du Fruit"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 155,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Départ Saint-Michel"
+                    ],
+                    "bar": [
+                        "Wine O'clock"
+                    ],
+                    "restaurant": [
+                        "Le Paradis du Fruit",
+                        "Namasté Paris"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 156,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Départ Saint-Michel"
+                    ],
+                    "bar": [
+                        "Wine O'clock"
+                    ],
+                    "restaurant": [
+                        "Le Paradis du Fruit",
+                        "Namasté Paris"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 157,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Départ Saint-Michel"
+                    ],
+                    "bar": [
+                        "Wine O'clock"
+                    ],
+                    "restaurant": [
+                        "Le Paradis du Fruit",
+                        "Namasté Paris"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 158,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Départ Saint-Michel",
+                        "Blue Tea"
+                    ],
+                    "restaurant": [
+                        "Folie Crab",
+                        "Le Paradis du Fruit",
+                        "Namasté Paris"
+                    ],
+                    "bar": [
+                        "Wine O'clock"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 159,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Folie Crab",
+                        "Le Paradis du Fruit",
+                        "Namasté Paris",
+                        "La Estancia",
+                        "Oh Quai Latin",
+                        "Bistro des Augustins"
+                    ],
+                    "bar": [
+                        "Wine O'clock",
+                        "The Great Canadian"
+                    ],
+                    "cafe": [
+                        "Blue Tea"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 160,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "bar": [
+                        "The Great Canadian"
+                    ],
+                    "restaurant": [
+                        "La Estancia",
+                        "Oh Quai Latin",
+                        "Lapérouse",
+                        "Bistro des Augustins"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 161,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "restaurant": [
+                        "Oh Quai Latin",
+                        "Lapérouse",
+                        "Ze Kitchen Galerie",
+                        "Bistro des Augustins"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 162,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Pont Neuf"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Karé",
+                        "Oh Quai Latin",
+                        "Lapérouse",
+                        "Ze Kitchen Galerie"
+                    ],
+                    "bar": [
+                        "Ni 1 Ni 2",
+                        "Mizen",
+                        "Chez Nous"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 163,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Pont Neuf"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Karé"
+                    ],
+                    "bar": [
+                        "Ni 1 Ni 2",
+                        "Mizen",
+                        "Chez Nous"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 164,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Pont Neuf"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Karé"
+                    ],
+                    "bar": [
+                        "Ni 1 Ni 2",
+                        "Mizen",
+                        "Chez Nous"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 165,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Pont Neuf"
+                    ],
+                    "museum": [
+                        "Hôtel de la Monnaie"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Karé"
+                    ],
+                    "bar": [
+                        "Ni 1 Ni 2",
+                        "L’Assignat",
+                        "Mizen",
+                        "Chez Nous"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 166,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Pont Neuf"
+                    ],
+                    "museum": [
+                        "Hôtel de la Monnaie"
+                    ]
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Karé"
+                    ],
+                    "bar": [
+                        "Ni 1 Ni 2",
+                        "L’Assignat",
+                        "Mizen",
+                        "Chez Nous"
+                    ],
+                    "cafe": [
+                        "Café Frappé"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 167,
+            "instruction": "Turn slight left",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Pont Neuf"
+                    ],
+                    "museum": [
+                        "Hôtel de la Monnaie"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Ni 1 Ni 2",
+                        "L’Assignat",
+                        "Mizen",
+                        "Chez Nous"
+                    ],
+                    "cafe": [
+                        "Café Frappé"
+                    ],
+                    "restaurant": [
+                        "Restaurant Guy Savoy"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 168,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Pont Neuf"
+                    ],
+                    "museum": [
+                        "Hôtel de la Monnaie"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Ni 1 Ni 2",
+                        "L’Assignat",
+                        "Mizen",
+                        "Chez Nous"
+                    ],
+                    "cafe": [
+                        "Café Frappé"
+                    ],
+                    "restaurant": [
+                        "Restaurant Guy Savoy"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 169,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Pont Neuf"
+                    ],
+                    "museum": [
+                        "Hôtel de la Monnaie"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Ni 1 Ni 2",
+                        "L’Assignat",
+                        "Chez Nous"
+                    ],
+                    "cafe": [
+                        "Café Frappé"
+                    ],
+                    "restaurant": [
+                        "Restaurant Guy Savoy"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 170,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Hôtel de la Monnaie"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 171,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Hôtel de la Monnaie"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 172,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "restaurant": [
+                        "Calife"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 173,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "restaurant": [
+                        "Calife"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 174,
+            "instruction": "N/A",
+            "poi": {
+                "amenity": {
+                    "restaurant": [
+                        "Calife"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 175,
+            "instruction": "Turn right onto Pont des Arts",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ],
+                    "viewpoint": [
+                        "Pont des Arts"
+                    ],
+                    "artwork": 1
+                },
+                "amenity": {
+                    "restaurant": [
+                        "Calife"
+                    ],
+                    "bar": [
+                        "La Balle au Bond"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin de l'Infante"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 176,
+            "instruction": "Continue",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ],
+                    "viewpoint": [
+                        "Pont des Arts"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin de l'Infante"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 177,
+            "instruction": "Continue",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ],
+                    "viewpoint": [
+                        "Pont des Arts"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin de l'Infante"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 178,
+            "instruction": "Keep left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 179,
+            "instruction": "Turn slight left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 180,
+            "instruction": "Turn sharp right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 181,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin de l'Oratoire"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 182,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin de l'Oratoire"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 183,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin de l'Oratoire"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 184,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Musée du Louvre"
+                    ],
+                    "attraction": [
+                        "Palais du Louvre"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin de l'Oratoire"
+                    ]
+                }
+            }
+        }
+    ]
+}
