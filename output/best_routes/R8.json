@@ -34,17 +34,6 @@
             }
         },
         {
-            "segment_id": 2,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "museum": [
-                        "Musée d'Orsay"
-                    ]
-                }
-            }
-        },
-        {
             "segment_id": 3,
             "instruction": "Turn slight right",
             "poi": {
@@ -54,72 +43,10 @@
                     ]
                 },
                 "leisure": {
-                    "garden": 1
-                }
-            }
-        },
-        {
-            "segment_id": 4,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "museum": [
-                        "Musée d'Orsay"
-                    ]
-                },
-                "leisure": {
-                    "garden": 1
-                }
-            }
-        },
-        {
-            "segment_id": 5,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "museum": [
-                        "Musée d'Orsay"
-                    ]
-                },
-                "leisure": {
-                    "garden": 1
+                    "garden": 5
                 },
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 6,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "museum": [
-                        "Musée d'Orsay"
-                    ]
-                },
-                "leisure": {
-                    "garden": 1
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 7,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "museum": [
-                        "Musée d'Orsay"
-                    ]
-                },
-                "leisure": {
-                    "garden": 1
-                },
-                "natural": {
-                    "tree": 1
+                    "tree": 3
                 }
             }
         },
@@ -175,49 +102,12 @@
             "instruction": "Keep left onto Passerelle Léopold-Sédar-Senghor",
             "poi": {
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 13,
-            "instruction": "N/A",
-            "poi": {
+                    "tree": 4
+                },
                 "leisure": {
                     "park": [
                         "Jardin des Tuileries"
                     ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 14,
-            "instruction": "N/A",
-            "poi": {
-                "leisure": {
-                    "park": [
-                        "Jardin des Tuileries"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 15,
-            "instruction": "N/A",
-            "poi": {
-                "leisure": {
-                    "park": [
-                        "Jardin des Tuileries"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
                 }
             }
         },
@@ -275,45 +165,7 @@
                     ]
                 },
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 19,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "museum": [
-                        "Musée de l'Orangerie"
-                    ]
-                },
-                "leisure": {
-                    "park": [
-                        "Jardin des Tuileries"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 20,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "museum": [
-                        "Musée de l'Orangerie"
-                    ]
-                },
-                "leisure": {
-                    "park": [
-                        "Jardin des Tuileries"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
+                    "tree": 3
                 }
             }
         },
@@ -343,25 +195,6 @@
                 "tourism": {
                     "museum": [
                         "Musée de l'Orangerie"
-                    ]
-                },
-                "leisure": {
-                    "park": [
-                        "Jardin des Tuileries"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 23,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "museum": [
-                        "Musée de l'Orangerie"
                     ],
                     "artwork": [
                         "Grand Commandement Blanc"
@@ -373,7 +206,7 @@
                     ]
                 },
                 "natural": {
-                    "tree": 1
+                    "tree": 2
                 }
             }
         },
@@ -400,29 +233,8 @@
             }
         },
         {
-            "segment_id": 25,
-            "instruction": "N/A",
-            "poi": {
-                "leisure": {
-                    "park": [
-                        "Jardin des Tuileries"
-                    ]
-                }
-            }
-        },
-        {
             "segment_id": 26,
             "instruction": "Turn right onto Place de la Concorde",
-            "poi": {}
-        },
-        {
-            "segment_id": 27,
-            "instruction": "N/A",
-            "poi": {}
-        },
-        {
-            "segment_id": 28,
-            "instruction": "N/A",
             "poi": {
                 "tourism": {
                     "attraction": [

@@ -1,0 +1,852 @@
+{
+    "route_id": 1,
+    "length_m": 3033.8498642782033,
+    "walkability_score": 0.6768115942028985,
+    "air_quality": "Fair",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 72,
+            "instruction": "Continue onto Rue de Birague",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Louis XIII"
+                    ],
+                    "gallery": [
+                        "Marciano Contemporary"
+                    ],
+                    "attraction": [
+                        "Square Louis-XIII"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "Magnum La Cave - Vins Bios Et Naturels",
+                        "La Chamade",
+                        "BARATRUF"
+                    ],
+                    "cafe": [
+                        "Café des Mousquétaires",
+                        "L'Arsenal",
+                        "Café Mulot",
+                        "Le bone appart"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louis-XIII"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 73,
+            "instruction": "Turn right onto Rue Saint-Antoine",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "amenity": {
+                    "bar": [
+                        "Magnum La Cave - Vins Bios Et Naturels",
+                        "La Chamade",
+                        "BARATRUF"
+                    ],
+                    "cafe": [
+                        "Café des Mousquétaires",
+                        "L'Arsenal",
+                        "Le bone appart"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 74,
+            "instruction": "Turn left onto Rue Beautreillis",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Rinomina"
+                    ]
+                },
+                "amenity": {
+                    "bar": [
+                        "BARATRUF",
+                        "Sherry Butt",
+                        "Magnum La Cave - Vins Bios Et Naturels",
+                        "La Chamade"
+                    ],
+                    "cafe": [
+                        "Le bone appart",
+                        "L'Arsenal",
+                        "Café des Mousquétaires"
+                    ]
+                },
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 76,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Rinomina"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 77,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Rinomina"
+                    ]
+                },
+                "natural": {
+                    "tree": 6
+                }
+            }
+        },
+        {
+            "segment_id": 83,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 84,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 85,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin du Père Teilhard de Chardin",
+                        "Square Henri Galli"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 86,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin du Père Teilhard de Chardin",
+                        "Square Henri Galli"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 87,
+            "instruction": "Turn right onto Rue du Petit Musc",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Pavillon de l'Arsenal"
+                    ],
+                    "artwork": 1
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Sully"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin du Père Teilhard de Chardin",
+                        "Square Henri Galli"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 88,
+            "instruction": "Turn left onto Quai des Célestins",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Pavillon de l'Arsenal"
+                    ],
+                    "artwork": 1
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Sully"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin du Père Teilhard de Chardin",
+                        "Square Henri Galli"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 89,
+            "instruction": "Turn sharp right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Pavillon de l'Arsenal"
+                    ],
+                    "artwork": 1
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Sully"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin du Père Teilhard de Chardin",
+                        "Square Henri Galli"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 90,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Pavillon de l'Arsenal"
+                    ],
+                    "artwork": 3
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Sully"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Henri Galli",
+                        "Jardin du Père Teilhard de Chardin"
+                    ]
+                },
+                "natural": {
+                    "tree": 4
+                }
+            }
+        },
+        {
+            "segment_id": 94,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Pavillon de l'Arsenal"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Sully"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Henri Galli"
+                    ]
+                },
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 96,
+            "instruction": "Keep left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Pavillon de l'Arsenal"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Sully"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Henri Galli"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 97,
+            "instruction": "Turn sharp right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Institut du Monde Arabe",
+                        "Pavillon de l'Arsenal",
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ],
+                    "attraction": 1,
+                    "viewpoint": 2,
+                    "gallery": [
+                        "Galerie Dutko"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Sully",
+                        "Le Café Littéraire"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Barye",
+                        "Square Henri Galli",
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ]
+                },
+                "natural": {
+                    "tree": 4
+                }
+            }
+        },
+        {
+            "segment_id": 101,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Institut du Monde Arabe",
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ],
+                    "viewpoint": 2
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Café Littéraire"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ]
+                },
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 103,
+            "instruction": "Turn sharp left onto Quai Saint-Bernard",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Institut du Monde Arabe",
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ],
+                    "viewpoint": 4,
+                    "artwork": [
+                        "Hydrorrhage",
+                        "Cœur de Gaucho"
+                    ]
+                },
+                "amenity": {
+                    "cafe": [
+                        "Le Café Littéraire"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ]
+                },
+                "natural": {
+                    "tree": 5
+                }
+            }
+        },
+        {
+            "segment_id": 108,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ],
+                    "artwork": [
+                        "Hydrorrhage"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 109,
+            "instruction": "Turn left onto Quai Saint-Bernard",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ],
+                    "artwork": [
+                        "Hydrorrhage"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 110,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ],
+                    "artwork": [
+                        "Hydrorrhage"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ]
+                },
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 113,
+            "instruction": "Continue",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ],
+                    "artwork": [
+                        "Les cinq ailes"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin Tino Rossi - Musée de la Sculpture en Plein Air"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 114,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Les cinq ailes"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 115,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Les cinq ailes"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 116,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Les cinq ailes"
+                    ],
+                    "attraction": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "natural": {
+                    "tree": 8
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Plantes"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 124,
+            "instruction": "Turn slight left onto Rue de Licences",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 128,
+            "instruction": "Turn left onto Rue de Licences",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Plantes"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 129,
+            "instruction": "Turn right onto Rue Cuvier",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Cuvier",
+                        "Ceinture de Feu",
+                        "George Cuvier"
+                    ],
+                    "attraction": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 131,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Cuvier",
+                        "Ceinture de Feu",
+                        "Bernardin de Saint-Pierre avec Paul et Virginie",
+                        "La nymphe tourmentant un dauphin",
+                        "George Cuvier"
+                    ],
+                    "attraction": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Parrotie de Perse",
+                        "Arbre aux quarante écus",
+                        "Platane de Buffon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 134,
+            "instruction": "Turn left onto Allée des Becquerel",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Cuvier",
+                        "Ceinture de Feu",
+                        "Bernardin de Saint-Pierre avec Paul et Virginie",
+                        "La nymphe tourmentant un dauphin",
+                        "George Cuvier"
+                    ],
+                    "attraction": [
+                        "Tourbière",
+                        "Jardin des Plantes",
+                        "Préalpes",
+                        "Provence",
+                        "Balkans",
+                        "Alpes",
+                        "Cévennes",
+                        "Espagne"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Alpin",
+                        "Jardin de l'École de botanique"
+                    ],
+                    "park": [
+                        "Jardin des Plantes"
+                    ],
+                    "nature_reserve": [
+                        "Le Petit Labyrinthe"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Érable de Montpellier",
+                        "Parrotie de Perse",
+                        "Kiwi",
+                        "Arbre aux quarante écus",
+                        "Fau de Verzy",
+                        "Platane de Buffon",
+                        "Métaséquoia"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 138,
+            "instruction": "Turn left onto Allée Cuvier",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Tourbière",
+                        "Cévennes",
+                        "USA",
+                        "Préalpes",
+                        "Alpes",
+                        "Balkans",
+                        "Provence",
+                        "Espagne",
+                        "Himalaya",
+                        "Japon - Chine",
+                        "Jardin des Plantes",
+                        "Caucase",
+                        "Corse",
+                        "Maroc"
+                    ],
+                    "artwork": [
+                        "Bernardin de Saint-Pierre avec Paul et Virginie"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Alpin",
+                        "Jardin de l'École de botanique",
+                        "Jardin Écologique"
+                    ],
+                    "nature_reserve": [
+                        "Le Petit Labyrinthe"
+                    ],
+                    "park": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Kiwi",
+                        "Métaséquoia",
+                        "Érable de Montpellier",
+                        "Parrotie de Perse",
+                        "Fau de Verzy",
+                        "Pistachier de Vaillant",
+                        "Pin laricio",
+                        "Platane de Buffon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 139,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Tourbière",
+                        "Cévennes",
+                        "USA",
+                        "Préalpes",
+                        "Alpes",
+                        "Balkans",
+                        "Provence",
+                        "Espagne",
+                        "Himalaya",
+                        "Japon - Chine",
+                        "Jardin des Plantes",
+                        "Caucase",
+                        "Corse",
+                        "Maroc"
+                    ],
+                    "artwork": [
+                        "Bernardin de Saint-Pierre avec Paul et Virginie"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Alpin",
+                        "Jardin de l'École de botanique",
+                        "Jardin Écologique"
+                    ],
+                    "nature_reserve": [
+                        "Le Petit Labyrinthe"
+                    ],
+                    "park": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Kiwi",
+                        "Métaséquoia",
+                        "Érable de Montpellier",
+                        "Parrotie de Perse",
+                        "Fau de Verzy",
+                        "Pistachier de Vaillant",
+                        "Pin laricio",
+                        "Platane de Buffon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 140,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Tourbière",
+                        "Cévennes",
+                        "USA",
+                        "Préalpes",
+                        "Alpes",
+                        "Balkans",
+                        "Provence",
+                        "Espagne",
+                        "Himalaya",
+                        "Japon - Chine",
+                        "Jardin des Plantes",
+                        "Caucase",
+                        "Corse",
+                        "Maroc"
+                    ],
+                    "artwork": [
+                        "Bernardin de Saint-Pierre avec Paul et Virginie"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Alpin",
+                        "Jardin de l'École de botanique",
+                        "Jardin Écologique"
+                    ],
+                    "nature_reserve": [
+                        "Le Petit Labyrinthe"
+                    ],
+                    "park": [
+                        "Jardin des Plantes"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Kiwi",
+                        "Métaséquoia",
+                        "Érable de Montpellier",
+                        "Parrotie de Perse",
+                        "Fau de Verzy",
+                        "Pistachier de Vaillant",
+                        "Pin laricio",
+                        "Platane de Buffon"
+                    ]
+                }
+            }
+        }
+    ]
+}

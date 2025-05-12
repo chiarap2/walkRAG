@@ -1,0 +1,167 @@
+{
+    "route_id": 0,
+    "length_m": 2178.720537251707,
+    "walkability_score": 0.3354285714285714,
+    "air_quality": "Fair",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 0,
+            "instruction": "Continue",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 1,
+            "instruction": "Turn left onto Place de l'Équerre",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 2,
+            "instruction": "Turn left onto Place des États-Unis",
+            "poi": {
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 4,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 6,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 7,
+            "instruction": "Turn sharp right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 8,
+            "instruction": "Turn right onto Avenue Charles Lindbergh",
+            "poi": {
+                "natural": {
+                    "tree": 6
+                }
+            }
+        },
+        {
+            "segment_id": 14,
+            "instruction": "Turn right onto Rue des Solets",
+            "poi": {}
+        },
+        {
+            "segment_id": 15,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 16,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 26,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 28,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 30,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 31,
+            "instruction": "Turn slight left",
+            "poi": {
+                "natural": {
+                    "tree": 6
+                }
+            }
+        },
+        {
+            "segment_id": 44,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 50,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 52,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 57,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 62,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 63,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 68,
+            "instruction": "Arrive at destination",
+            "poi": {}
+        },
+        {
+            "segment_id": 69,
+            "instruction": "Arrive at destination",
+            "poi": {}
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "route_id": 0,
+    "length_m": 2437.9994202310527,
+    "walkability_score": 0.6978125,
+    "air_quality": "Fair",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 0,
+            "instruction": "Continue onto Place du Trocadéro et du 11 Novembre 1918",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Les oiseaux",
+                        "Le Matin",
+                        "Flore",
+                        "La Jeunesse",
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "Les jardins"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 2,
+            "instruction": "Turn slight right onto Place du Trocadéro et du 11 Novembre 1918",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Flore",
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 3,
+            "instruction": "Turn left onto Place du Trocadéro et du 11 Novembre 1918",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Flore",
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 4,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 5,
+            "instruction": "Turn sharp left",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "La Jeunesse",
+                        1
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 8,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 11,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 12,
+            "instruction": "Turn right onto Avenue Kléber",
+            "poi": {
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 15,
+            "instruction": "Turn right onto Avenue Kléber",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 16,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 17,
+            "instruction": "Turn right onto Avenue Kléber",
+            "poi": {
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 20,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 21,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 24,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 26,
+            "instruction": "Turn slight right",
+            "poi": {
+                "natural": {
+                    "tree": 15
+                },
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ],
+                    "gallery": 6
+                }
+            }
+        },
+        {
+            "segment_id": 41,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 42,
+            "instruction": "Turn slight right",
+            "poi": {
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 45,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 13
+                },
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard",
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 58,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 59,
+            "instruction": "Turn slight left onto Passage du Souvenir",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Toit de l'Arc de Triomphe"
+                    ],
+                    "museum": [
+                        "Musée de l'Arc de Triomphe"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 60,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Toit de l'Arc de Triomphe"
+                    ],
+                    "museum": [
+                        "Musée de l'Arc de Triomphe"
+                    ]
+                },
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 62,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Toit de l'Arc de Triomphe"
+                    ],
+                    "museum": [
+                        "Musée de l'Arc de Triomphe"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 63,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Toit de l'Arc de Triomphe"
+                    ],
+                    "museum": [
+                        "Musée de l'Arc de Triomphe"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        }
+    ]
+}

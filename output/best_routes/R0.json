@@ -1,0 +1,796 @@
+{
+    "route_id": 1,
+    "length_m": 2447.303017183006,
+    "walkability_score": 0.6153846153846153,
+    "air_quality": "Moderate",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 86,
+            "instruction": "Continue",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "artwork": 3
+                },
+                "leisure": {
+                    "garden": 3,
+                    "park": [
+                        "Square Marcel-Bleustein-Blanchet",
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 89,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 91,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 92,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 94,
+            "instruction": "Turn sharp right onto Parvis du Sacré-Cœur",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 3,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 99,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 100,
+            "instruction": "Turn right onto Parvis du Sacré-Cœur",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 3,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 102,
+            "instruction": "Turn right onto Parvis du Sacré-Cœur",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 103,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 5,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 107,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 109,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 110,
+            "instruction": "Turn right onto Rue du Mont Cenis",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "L'Atelier d'Art",
+                        "Galerie Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 111,
+            "instruction": "Turn left onto Place Jean Marais",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "L'Atelier d'Art",
+                        "Galerie Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 3
+                },
+                "natural": {
+                    "tree": 3
+                }
+            }
+        },
+        {
+            "segment_id": 115,
+            "instruction": "Turn right onto Place Jean Marais",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "L'Atelier d'Art",
+                        "Galerie Montmartre",
+                        "Galerie Robert Philippy"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                }
+            }
+        },
+        {
+            "segment_id": 116,
+            "instruction": "Turn left onto Rue Norvins",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "L'Atelier d'Art",
+                        "Galerie Montmartre",
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art"
+                    ],
+                    "museum": [
+                        "Espace Dali"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                }
+            }
+        },
+        {
+            "segment_id": 117,
+            "instruction": "Continue onto Rue Norvins",
+            "poi": {
+                "tourism": {
+                    "artwork": 5,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie Montmartre",
+                        "L'Atelier d'Art",
+                        "Galerie d'Art Céramique"
+                    ],
+                    "museum": [
+                        "Espace Dali"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 2
+                }
+            }
+        },
+        {
+            "segment_id": 121,
+            "instruction": "Turn left onto Rue Poulbot",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 122,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 125,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 126,
+            "instruction": "Turn left onto Place Jean-Baptiste Clément",
+            "poi": {
+                "tourism": {
+                    "artwork": 7,
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "gallery": [
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 7
+                }
+            }
+        },
+        {
+            "segment_id": 131,
+            "instruction": "Keep right onto Rue Lepic",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        1,
+                        "Le Passe-Muraille"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ],
+                    "gallery": [
+                        "Galerie L77"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément",
+                        "Jardin Frédéric Dard"
+                    ]
+                },
+                "natural": {
+                    "tree": 5
+                }
+            }
+        },
+        {
+            "segment_id": 134,
+            "instruction": "Turn left onto Rue d'Orchampt",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "artwork": [
+                        "Le Passe-Muraille"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "jardin Louise-Weber-dite-La-Goulue"
+                    ],
+                    "garden": [
+                        "Jardin Frédéric Dard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 135,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "artwork": 1,
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "jardin Louise-Weber-dite-La-Goulue"
+                    ],
+                    "garden": [
+                        "Jardin Frédéric Dard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 136,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "artwork": 3,
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "jardin Louise-Weber-dite-La-Goulue"
+                    ],
+                    "garden": [
+                        "Jardin Frédéric Dard",
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 139,
+            "instruction": "Keep left",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                }
+            }
+        },
+        {
+            "segment_id": 141,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 142,
+            "instruction": "Turn left onto Rue Tholozé",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 143,
+            "instruction": "Turn right onto Rue des Abbesses",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 144,
+            "instruction": "Keep left onto Place Anne-Marie Carrière",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Vicent Van Gogh apartment"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 145,
+            "instruction": "Continue onto Rue Joseph de Maistre",
+            "poi": {
+                "tourism": {
+                    "gallery": 1,
+                    "artwork": [
+                        "Vicent Van Gogh apartment"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 146,
+            "instruction": "Turn left onto Rue Constance",
+            "poi": {
+                "tourism": {
+                    "gallery": 1,
+                    "artwork": [
+                        "Vicent Van Gogh apartment"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 147,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "gallery": 1,
+                    "viewpoint": [
+                        "Terrass'' Hôtel"
+                    ],
+                    "artwork": [
+                        "Vicent Van Gogh apartment"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 148,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "gallery": 1,
+                    "viewpoint": [
+                        "Terrass'' Hôtel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 150,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "gallery": 1,
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Terrass'' Hôtel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 151,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 154,
+            "instruction": "Turn left onto Avenue Rachel",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 155,
+            "instruction": "Turn left onto Chemin de la Croix",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 159,
+            "instruction": "Turn left onto Avenue de la Croix",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 160,
+            "instruction": "Turn right onto Chemin Baudin",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 161,
+            "instruction": "Turn left onto Chemin Troyon",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 162,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 163,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,322 @@
+{
+    "route_id": 0,
+    "length_m": 10812.757350126047,
+    "walkability_score": 0.2111290322580645,
+    "air_quality": "Moderate",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 0,
+            "instruction": "Continue",
+            "poi": {}
+        },
+        {
+            "segment_id": 2,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 4,
+            "instruction": "Turn right onto Quai 2",
+            "poi": {}
+        },
+        {
+            "segment_id": 5,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 6,
+            "instruction": "Keep right",
+            "poi": {}
+        },
+        {
+            "segment_id": 7,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 14,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 15,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 24,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 31,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 38,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 44,
+            "instruction": "Turn sharp right",
+            "poi": {}
+        },
+        {
+            "segment_id": 45,
+            "instruction": "Keep right",
+            "poi": {}
+        },
+        {
+            "segment_id": 61,
+            "instruction": "Turn slight left",
+            "poi": {}
+        },
+        {
+            "segment_id": 72,
+            "instruction": "Keep right",
+            "poi": {}
+        },
+        {
+            "segment_id": 92,
+            "instruction": "Keep right onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 93,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 96,
+            "instruction": "Turn right onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 105,
+            "instruction": "Continue onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 111,
+            "instruction": "Keep left onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 124,
+            "instruction": "Continue onto Route du Noyer au Chat",
+            "poi": {}
+        },
+        {
+            "segment_id": 127,
+            "instruction": "Continue",
+            "poi": {}
+        },
+        {
+            "segment_id": 134,
+            "instruction": "Turn slight left and drive toward Cargo 4-5-6-7 Centre commercial Aéroville",
+            "poi": {}
+        },
+        {
+            "segment_id": 138,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 141,
+            "instruction": "At roundabout, take exit 1",
+            "poi": {}
+        },
+        {
+            "segment_id": 152,
+            "instruction": "Continue",
+            "poi": {}
+        },
+        {
+            "segment_id": 159,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 162,
+            "instruction": "At roundabout, take exit 1",
+            "poi": {}
+        },
+        {
+            "segment_id": 168,
+            "instruction": "Turn sharp right",
+            "poi": {}
+        },
+        {
+            "segment_id": 180,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 181,
+            "instruction": "Keep left",
+            "poi": {}
+        },
+        {
+            "segment_id": 192,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 197,
+            "instruction": "Turn right",
+            "poi": {}
+        },
+        {
+            "segment_id": 203,
+            "instruction": "Turn right onto Chemin de la Mesnil",
+            "poi": {}
+        },
+        {
+            "segment_id": 205,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        1,
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 208,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": [
+                        "Cèdre du Liban"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 215,
+            "instruction": "Turn left",
+            "poi": {}
+        },
+        {
+            "segment_id": 216,
+            "instruction": "Keep right",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 217,
+            "instruction": "Turn sharp left",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 218,
+            "instruction": "Turn right",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 223,
+            "instruction": "Turn right",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 224,
+            "instruction": "Turn left",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                },
+                "tourism": {
+                    "artwork": 5
+                }
+            }
+        },
+        {
+            "segment_id": 232,
+            "instruction": "Turn left onto Allée du Verger",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 233,
+            "instruction": "Keep right onto Allée du Verger",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 235,
+            "instruction": "At roundabout, take exit 2 onto Allée du Verger",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 242,
+            "instruction": "Turn slight left onto Allée du Verger",
+            "poi": {
+                "leisure": {
+                    "park": [
+                        "Parc de la Mairie"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 246,
+            "instruction": "Arrive at destination",
+            "poi": {}
+        },
+        {
+            "segment_id": 247,
+            "instruction": "Arrive at destination",
+            "poi": {}
+        }
+    ]
+}

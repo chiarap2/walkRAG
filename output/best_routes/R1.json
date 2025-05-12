@@ -124,70 +124,12 @@
             "poi": {
                 "tourism": {
                     "artwork": [
-                        "Édicule Guimard"
+                        "Édicule Guimard",
+                        "Fontaine Saint-Michel"
                     ]
                 },
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 77,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": [
-                        "Édicule Guimard"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 78,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": [
-                        "Fontaine Saint-Michel",
-                        "Édicule Guimard"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 79,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": [
-                        "Fontaine Saint-Michel",
-                        "Édicule Guimard"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 80,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": [
-                        "Fontaine Saint-Michel",
-                        "Édicule Guimard"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
+                    "tree": 5
                 }
             }
         },
@@ -197,27 +139,12 @@
             "poi": {
                 "tourism": {
                     "artwork": [
-                        "Fontaine Saint-Michel",
-                        "Édicule Guimard"
+                        "Édicule Guimard",
+                        "Fontaine Saint-Michel"
                     ]
                 },
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 82,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": [
-                        "Fontaine Saint-Michel",
-                        "Édicule Guimard"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
+                    "tree": 2
                 }
             }
         },
@@ -242,79 +169,21 @@
             "poi": {
                 "tourism": {
                     "artwork": [
+                        "Édicule Guimard",
                         "Fontaine Saint-Michel",
-                        "Édicule Guimard"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 85,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": [
-                        "Fontaine Saint-Michel",
-                        "Édicule Guimard"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 86,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": [
-                        "Édicule Guimard"
+                        1
                     ],
                     "gallery": [
                         "Galerie Saint-Séverin"
                     ]
                 },
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 87,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": 1,
-                    "gallery": [
-                        "Galerie Saint-Séverin"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 88,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": 1,
-                    "gallery": [
-                        "Galerie Saint-Séverin"
-                    ]
+                    "tree": 5
                 },
                 "leisure": {
                     "park": [
                         "Square André Lefèvre"
                     ]
-                },
-                "natural": {
-                    "tree": 1
                 }
             }
         },
@@ -356,26 +225,12 @@
                     ]
                 },
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 92,
-            "instruction": "N/A",
-            "poi": {
+                    "tree": 2
+                },
                 "tourism": {
                     "gallery": [
                         "Galerie Saint-Séverin"
                     ]
-                },
-                "leisure": {
-                    "park": [
-                        "Square André Lefèvre"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
                 }
             }
         },
@@ -428,34 +283,15 @@
                 },
                 "leisure": {
                     "park": [
-                        "Square André Lefèvre"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 96,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "gallery": [
-                        "Galerie Saint-Séverin"
-                    ]
-                },
-                "leisure": {
+                        "Square André Lefèvre",
+                        "Square de Cluny"
+                    ],
                     "garden": [
                         "Jardin médiéval"
-                    ],
-                    "park": [
-                        "Square de Cluny",
-                        "Square André Lefèvre"
                     ]
                 },
                 "natural": {
-                    "tree": 1
+                    "tree": 2
                 }
             }
         },
@@ -546,7 +382,7 @@
                     "gallery": [
                         "Espace Vision'Art"
                     ],
-                    "artwork": 1
+                    "artwork": 3
                 },
                 "leisure": {
                     "garden": [
@@ -558,55 +394,7 @@
                     ]
                 },
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 102,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "gallery": [
-                        "Espace Vision'Art"
-                    ],
-                    "artwork": 1
-                },
-                "leisure": {
-                    "garden": [
-                        "Jardin médiéval"
-                    ],
-                    "park": [
-                        "Square Samuel Paty",
-                        "Square de Cluny"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 103,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "gallery": [
-                        "Espace Vision'Art"
-                    ],
-                    "artwork": 1
-                },
-                "leisure": {
-                    "garden": [
-                        "Jardin médiéval"
-                    ],
-                    "park": [
-                        "Square Samuel Paty",
-                        "Square de Cluny"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
+                    "tree": 3
                 }
             }
         },
@@ -731,8 +519,8 @@
             "poi": {
                 "tourism": {
                     "artwork": [
-                        "Dante",
-                        "Claude Bernard"
+                        "Claude Bernard",
+                        "Dante"
                     ],
                     "gallery": [
                         "Espace Vision'Art"
@@ -745,49 +533,7 @@
                     ]
                 },
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 110,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": [
-                        "Dante",
-                        "Claude Bernard"
-                    ]
-                },
-                "leisure": {
-                    "park": [
-                        "Square Michel Foucault",
-                        "Square Auguste Mariette-Pacha"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 111,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "artwork": [
-                        "Dante",
-                        "Claude Bernard"
-                    ]
-                },
-                "leisure": {
-                    "park": [
-                        "Square Michel Foucault",
-                        "Square Auguste Mariette-Pacha"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
+                    "tree": 3
                 }
             }
         },
@@ -813,16 +559,6 @@
             }
         },
         {
-            "segment_id": 113,
-            "instruction": "N/A",
-            "poi": {}
-        },
-        {
-            "segment_id": 114,
-            "instruction": "N/A",
-            "poi": {}
-        },
-        {
             "segment_id": 115,
             "instruction": "Keep left",
             "poi": {}
@@ -830,39 +566,6 @@
         {
             "segment_id": 116,
             "instruction": "Turn left",
-            "poi": {}
-        },
-        {
-            "segment_id": 117,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "attraction": [
-                        "Panthéon"
-                    ],
-                    "artwork": [
-                        "Pierre Corneille"
-                    ]
-                }
-            }
-        },
-        {
-            "segment_id": 118,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "attraction": [
-                        "Panthéon"
-                    ],
-                    "artwork": [
-                        "Pierre Corneille"
-                    ]
-                }
-            }
-        },
-        {
-            "segment_id": 119,
-            "instruction": "N/A",
             "poi": {
                 "tourism": {
                     "attraction": [
@@ -917,20 +620,6 @@
             }
         },
         {
-            "segment_id": 123,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "attraction": [
-                        "Panthéon"
-                    ],
-                    "artwork": [
-                        "Pierre Corneille"
-                    ]
-                }
-            }
-        },
-        {
             "segment_id": 124,
             "instruction": "Turn right onto Place du Panthéon",
             "poi": {
@@ -950,75 +639,15 @@
             "poi": {
                 "tourism": {
                     "attraction": [
-                        "Panthéon",
-                        "Pendule de Foucault"
-                    ],
-                    "artwork": [
-                        "Pierre Corneille"
-                    ]
-                }
-            }
-        },
-        {
-            "segment_id": 126,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "attraction": [
-                        "Panthéon",
-                        "Pendule de Foucault"
-                    ],
-                    "artwork": [
-                        "Pierre Corneille"
-                    ]
-                }
-            }
-        },
-        {
-            "segment_id": 127,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "attraction": [
-                        "Panthéon",
-                        "Pendule de Foucault"
-                    ],
-                    "artwork": [
-                        "Pierre Corneille"
-                    ]
-                }
-            }
-        },
-        {
-            "segment_id": 128,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "attraction": [
-                        "Panthéon",
-                        "Pendule de Foucault"
+                        "Pendule de Foucault",
+                        "Panthéon"
                     ],
                     "artwork": [
                         "Pierre Corneille"
                     ]
                 },
                 "natural": {
-                    "tree": 1
-                }
-            }
-        },
-        {
-            "segment_id": 129,
-            "instruction": "N/A",
-            "poi": {
-                "tourism": {
-                    "attraction": [
-                        "Panthéon",
-                        "Pendule de Foucault"
-                    ]
-                },
-                "natural": {
-                    "tree": 1
+                    "tree": 2
                 }
             }
         },
