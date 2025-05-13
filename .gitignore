@@ -178,5 +178,3 @@ cython_debug/
 /datasets/.DS_Store
 /outputs/.DS_Store
 
-# images
-logo_walkrag.png
