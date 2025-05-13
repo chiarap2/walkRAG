@@ -1,0 +1,386 @@
+id,response
+R0.Q1,"Le Passe-Muraille, also known as The Wallwalker, is a famous bronze sculpture in Paris, France. It was created by French sculptor Jean Dubuffet in 1955. 
+
+Le Passe-Muraille is a depiction of a man who has climbed over a wall, often interpreted as a symbol of freedom and the human desire to break free from constraints. The sculpture is a representation of the main character from a short story of the same name by French writer André Maurois, published in 1943. 
+
+The sculpture can be found on the Boulevard de la Villette in the 19th arrondissement of Paris, and it has become a popular tourist attraction and a well-known landmark in the city."
+R0.Q2,The architect of the Basilique du Sacré-Cœur de Montmartre in Paris is Paul Abadie.
+R0.Q3,"The Moulin de la Galette is a historic windmill and a popular tourist attraction in Paris, France. However, it's also a famous location for its former role as a dance hall, specifically a popular spot for the Parisian cabarets during the 19th and early 20th centuries.
+
+It is located in the heart of the Montmartre district and is known for its association with famous artists, such as Claude Monet and Pierre-Auguste Renoir, who painted scenes of the Moulin de la Galette and its lively atmosphere.
+
+Today, the Moulin de la Galette is a restaurant and a museum, offering a glimpse into Paris' rich artistic and cultural history."
+R1.Q1,"The Musée de Cluny is a museum in Paris, France. It is primarily a medieval art and history museum, but more specifically, it is known for being a museum of the Middle Ages."
+R1.Q2,"Pierre Corneille (1606-1684) was a French playwright and poet, often regarded as one of the most important figures in the French classical theatre movement. He is best known for his tragic plays, which often explored themes of love, honor, and duty.
+
+Born in Rouen, France, Corneille studied law but eventually turned to a career in theatre. He wrote over 30 plays, including some of the most famous works of the French classical theatre, such as:
+
+1. ""Médée"" (Medea) - a tragedy about the legendary Greek sorceress Medea.
+2. ""Le Cid"" (The Cid) - a play about a young nobleman who seeks revenge for his father's honor.
+3. ""Horace"" - a play based on the Roman legend of Horace, a young poet who seeks revenge for his father's death.
+
+Corneille's plays were highly influential in the development of French theatre, and he is considered one of the founders of the French classical theatre movement, along with Molière and Racine.
+
+In Paris, you can find several references to Pierre Corneille, including:
+
+* The Théâtre du Vieux-Colombier, a historic theatre that was founded in 1680 and was a major venue for Corneille's plays.
+* The Musée Carnavalet, which has a collection of artifacts related to Corneille's life and work.
+* The Bibliothèque nationale de France, which has a large collection of Corneille's manuscripts and printed works.
+
+Overall, Pierre Corneille was a significant figure in French literature and theatre, and his works continue to be studied and performed today."
+R1.Q3,"The Palais de Justice de Paris is a historic courthouse in Paris, France. The name ""Palais de Justice"" is French for ""Palace of Justice."" It was named as such because it housed various branches of the French justice system, including the courts, the prison, and other related institutions.
+
+The Palais de Justice was originally built in the 14th century, and it has undergone several renovations and expansions over the centuries. During the 16th and 17th centuries, it became a major hub for the French justice system, with the Cour des Aides (a tax court) and the Châtelet de Paris (a royal court) operating within its walls.
+
+The name ""Palais de Justice"" reflects the building's historical significance as a center for justice and law in Paris. It's a testament to the importance of the French justice system and the role that this building played in shaping the country's legal history."
+R2.Q1,"The Musée de l'Armée (also known as the Army Museum) is actually located under the Arc de Triomphe in Paris. It's not a museum within the Arc de Triomphe itself but rather beneath it.
+
+The museum is dedicated to the military history of France and is part of the Musée de l'Armée, which also includes the Hôtel national des Invalides and the Musée des Égouts de Paris is not part of this museum complex.
+
+However, the Arc de Triomphe itself has a museum inside, called the Musée de l'Arc de Triomphe. This museum is dedicated to the history of the Arc de Triomphe and features artifacts, artworks, and exhibits that tell the story of the monument's construction and significance.
+
+So to clarify, there are two separate museums related to the Arc de Triomphe in Paris: the Musée de l'Armée, which is located beneath the Arc de Triomphe, and the Musée de l'Arc de Triomphe, which is located inside the Arc de Triomphe itself."
+R2.Q2,The Palais de Chaillot was built for the 1937 World's Fair in Paris.
+R2.Q3,'The Statue Equestre du Maréchal Ferdinand Foch in Paris is a large equestrian statue. An equestrian statue is a sculpture of a person on horseback, often depicting them in a heroic or important moment.'
+R3.Q1,"I couldn't find any information on a well-known public figure named Henri Galli in Paris. It's possible that Henri Galli may be a private individual or not a public figure. If you have more context or details about Henri Galli, such as his profession or any notable achievements, I may be able to provide more information."
+R3.Q2,"The Seine River in Paris originates from a spring in the forest of Sannois, which is located about 65 kilometers (40 miles) northwest of the city center. However, the Seine River is formed by the confluence of two smaller rivers, the Melnon and the Yeres, near the village of Suresnes, which is about 10 kilometers (6.2 miles) west of Paris."
+R3.Q3,"The Musée de la Sculpture en Plein Air in Paris is an outdoor sculpture museum, also known as a sculpture garden or an open-air sculpture museum."
+R4.Q1,"The Paris airport named after Charles de Gaulle is named in honor of the former President of France, Charles de Gaulle. Charles de Gaulle was a French general, statesman, and leader of the Free French Forces during World War II. 
+
+He served as the President of France from 1959 until 1969 and played a significant role in shaping France's post-war politics and foreign policy. De Gaulle is widely regarded as a national hero in France for his leadership during World War II and his efforts to maintain French independence and sovereignty.
+
+The airport, which was originally named Paris Nord, was renamed Charles de Gaulle Airport (Aéroport de Paris-Charles-de-Gaulle) in 1961, during de Gaulle's presidency. The name change was a tribute to his contributions to France and its people.
+
+Charles de Gaulle Airport is one of the busiest airports in the world and serves as a major hub for international air travel in Europe. The airport's name serves as a lasting recognition of de Gaulle's legacy and his impact on French history."
+R4.Q2,"Paris Charles de Gaulle International Airport has a total of 3 terminals: 
+
+1. Terminal 1 
+2. Terminal 2 (which is further divided into 7 sub-terminals, specifically Terminal 2A, 2B, 2C, 2D, 2E, 2F, and 2G) 
+3. Terminal 3"
+R4.Q3,The Cèdre du Liban in Paris is a Lebanese Cedar (Cedrus libani).
+R5.Q1,"Breakfast in Paris is a delightful experience.  You have several options for breakfast in a Parisian hotel, depending on your preferences and budget. Here are a few ideas:
+
+1. **Croissants and Pastries**: Visit a local bakery (boulangerie) or a café near your hotel to pick up freshly baked croissants, pain au chocolat, or other pastries. You can enjoy them in your hotel room or take a short walk to a nearby park to enjoy the morning scenery.
+2. **Hotel Breakfast**: Many Parisian hotels offer a buffet breakfast, which typically includes a selection of pastries, bread, cheese, cold cuts, and sometimes hot dishes like eggs or bacon. This is a convenient option, but be prepared for a higher price tag.
+3. **Baguette avec Fromage**: A classic French breakfast consists of a baguette with cheese, ham, or butter. You can buy a baguette from a bakery and add your favorite toppings in your hotel room or a nearby park.
+4. **Café au Lait and Croissant**: Visit a charming café and order a café au lait (coffee with milk) and a croissant. This is a simple yet satisfying breakfast that will give you a taste of Parisian culture.
+5. **Room Service**: If you're not feeling like venturing out, you can order room service from your hotel. This option is convenient, but be prepared for a higher price and limited options.
+6. **Grocery Store**: If you have access to a grocery store near your hotel, you can buy breakfast essentials like bread, cheese, and fruit to prepare a simple breakfast in your room.
+
+Some popular breakfast spots in Paris include:
+
+* Café de Flore (6th arrondissement)
+* Les Deux Magots (6th arrondissement)
+* Angelina (1st arrondissement)
+* Boulangerie Gérard Mulot (Multiple locations)
+
+Remember to also try some of the local specialties like pain au chocolat, croissants, or madeleines. Bon appétit!"
+R5.Q2,"Paris, the City of Light, is famous for its stunning architecture, art museums, fashion, and luxurious hotels. Here are some of the most important and iconic hotels in Paris:
+
+1. **Hotel Ritz Paris**: A legendary hotel that has been a symbol of luxury and elegance since 1898. It's a favorite among royalty, celebrities, and world leaders.
+
+2. **Hôtel Plaza Athénée**: Located on the famous Avenue Montaigne, this hotel is a favorite among celebrities and offers stunning views of the Eiffel Tower.
+
+3. **Hôtel Meurice**: A 5-star hotel that has been a Parisian institution since 1815. It's known for its opulent decor, beautiful gardens, and exceptional service.
+
+4. **Hôtel de Crillon, A Rosewood Hotel**: This hotel has been a favorite among royalty and celebrities since 1758. It's known for its stunning architecture, beautiful gardens, and exceptional service.
+
+5. **Hôtel Le Bristol**: A 5-star hotel that has been a Parisian institution since 1925. It's known for its elegant decor, beautiful gardens, and exceptional service.
+
+6. **Hôtel Le Royal Monceau Raffles Paris**: A luxurious hotel that offers stunning views of the Eiffel Tower and is known for its exceptional service and beautiful decor.
+
+7. **Hôtel Shangri-La Paris**: A luxurious hotel that offers stunning views of the Eiffel Tower and is known for its exceptional service and beautiful decor.
+
+8. **Hôtel Le Pavillon de la Reine**: A charming hotel that offers a unique and intimate experience, with beautiful gardens and exceptional service.
+
+9. **Hôtel Lutetia**: A luxurious hotel that offers stunning views of the Seine River and is known for its exceptional service and beautiful decor.
+
+10. **Hôtel Four Seasons Hotel George V Paris**: A luxurious hotel that offers stunning views of the city and is known for its exceptional service and beautiful decor.
+
+These hotels are just a few of the many iconic hotels in Paris, but they are certainly among the most important and luxurious."
+R5.Q3,"The Ritz Paris, located on the Place Vendôme in Paris, France, has a rich and storied history that spans over 120 years. Here's a brief overview:
+
+**Early Years (1898-1914)**
+The Ritz Paris was founded by Swiss hotelier César Ritz in 1898. Ritz, who had previously worked at the Savoy Hotel in London and the Hôtel Majestic in Paris, aimed to create a luxurious hotel that would cater to the needs of the wealthy and aristocratic elite. The hotel's design and architecture were inspired by the Renaissance style, with a grand entrance, opulent decor, and an impressive courtyard.
+
+**World War I and the Interwar Period (1914-1939)**
+During World War I, the Ritz Paris became a popular gathering place for diplomats, politicians, and intellectuals. The hotel's famous bar, the Bar Hemingway, was a favorite haunt of writers and artists, including Ernest Hemingway, who was a regular guest. In the 1920s and 1930s, the Ritz Paris continued to attract high society, with guests including royalty, celebrities, and business leaders.
+
+**World War II (1939-1945)**
+During World War II, the Ritz Paris was a hub of resistance activity, with many guests and staff members involved in the French Resistance. The hotel's manager, Marcel Proust's friend, and writer, Charles de Gaulle's cousin, Gaston Palewski, helped coordinate resistance efforts from the hotel.
+
+**Post-War Period (1945-1978)**
+After the war, the Ritz Paris continued to thrive, with guests including royalty, celebrities, and business leaders. In the 1960s and 1970s, the hotel became a popular destination for international jet-setters, with guests including Jacqueline Kennedy, Elizabeth Taylor, and Frank Sinatra.
+
+**Decline and Restoration (1978-1996)**
+In the late 1970s, the Ritz Paris began to decline, with a series of owners and managers struggling to maintain the hotel's standards. In 1996, the hotel was acquired by the Egyptian businessman, Mohamed Al-Fayed, who invested heavily in restoring the hotel to its former glory.
+
+**Modern Era (1996-Present)**
+Under Al-Fayed's ownership, the Ritz Paris underwent a major renovation, which included the restoration of the hotel's opulent decor, the creation of new amenities, and the introduction of modern technology. In 2012, the hotel was sold to the French company, Bennu, which has continued to maintain the hotel's high standards.
+
+**Notable Guests and Events**
+Throughout its history, the Ritz Paris has hosted many notable guests, including:
+
+* Queen Elizabeth II
+* Jacqueline Kennedy
+* Elizabeth Taylor
+* Frank Sinatra
+* Ernest Hemingway
+* Coco Chanel
+* Pablo Picasso
+* Salvador Dalí
+
+The Ritz Paris has also hosted many famous events, including:
+
+* The 1938 wedding of Prince Aly Khan and actress Rita Hayworth
+* The 1951 wedding of Prince Rainier III of Monaco and actress Grace Kelly
+* The 1961 funeral of French President Charles de Gaulle
+* The 1996 wedding of Prince Charles and Camilla Parker Bowles
+
+Today, the Ritz Paris remains one of the world's most luxurious hotels, offering guests an unparalleled level of service, comfort, and opulence."
+R6.Q1,"The Crypte Archéologique du Parvis Notre-Dame is an archaeological museum in Paris, France. It is located under the Parvis Notre-Dame - Cathédrale de Paris and provides a glimpse into the city's history and past, showcasing archaeological remains and artifacts from the Roman and medieval periods."
+R6.Q2,'Pont Neuf, which translates to "New Bridge" in French, is a historic bridge located in the heart of Paris, France. It is the oldest bridge in Paris that is still standing and was originally the first bridge to be built without houses or shops on it.\n\nThe construction of Pont Neuf began in 1577 and was completed in 1607. The bridge was commissioned by King Henry III and took 30 years to finish due to various obstacles and changes in design. The original architect of the bridge was Pierre Esprit, but he died in 1579 before its completion. \n\nThe bridge was designed by King Henry IV and architect François Mansart, who envisioned a bridge that would be a masterpiece of Renaissance architecture. Pont Neuf was an engineering marvel at the time, with a single, unbroken span of 232 meters (761 feet) that crossed the Seine River.\n\nPont Neuf was also a groundbreaking innovation in urban planning, as it was the first bridge in Paris to be designed without houses or shops on it. This decision was made to improve the flow of traffic and to create a more open and airy space for pedestrians. The bridge was also designed with the intention of being a symbol of the power and grandeur of the French monarchy.\n\nOver the centuries, Pont Neuf has undergone several restorations and renovations. In the 18th century, the bridge\'s pavement and railings were rebuilt, and in the 19th century, the bridge\'s stone piers were strengthened. In the 20th century, Pont Neuf underwent a major restoration project to repair damage caused by World War II bombing and to restore its original appearance.\n\nToday, Pont Neuf is a popular tourist destination and a beloved landmark in Paris. It is listed as a UNESCO World Heritage Site and is considered one of the most iconic and historic bridges in the world.'
+R6.Q3,"While the crêpe is a popular and iconic French dish, it's not necessarily the most typical dish of Paris. However, it's a staple in many French regions, including Brittany, where the crêpe originated.
+
+In Paris, you'll find many crêperies, especially in areas like Le Marais, Montmartre, and around the Latin Quarter. These crêperies often serve a wide variety of sweet and savory crêpes, making them a popular choice among tourists and locals alike.
+
+That being said, some of the most quintessential Parisian dishes include:
+
+1. Coq au Vin (chicken cooked in red wine)
+2. Escargots (snails in garlic butter)
+3. Bouillabaisse (fish soup from Marseille, but also popular in Paris)
+4. Steak Tartare (raw ground beef)
+5. Ratatouille (vegetable stew from Provence)
+6. Tarte Tatin (a caramelized apple tart)
+7. Croque Monsieur (grilled ham and cheese sandwich)
+8. Onion Soup Gratinee (soup topped with croutons and melted cheese)
+9. Sole Meunière (pan-seared sole fillets)
+10. Macarons (a type of meringue-based cookie sandwich)
+
+These dishes are often associated with traditional French cuisine and can be found on menus throughout the city. However, crêpes are still a beloved and iconic French dish, especially in Paris, where you can find them in many forms and flavors."
+R7.Q1,"The Édicule Guimard, also known as the Metro Entrances or Passage du Panorama, is a series of iconic entrances to the Paris Metro system in Paris, France. 
+
+Designed by Hector Guimard, a French architect, in the late 19th century, these entrances are an example of Art Nouveau architecture."
+R7.Q2,"The Moulin Rouge in Paris is a world-famous cabaret and theater known for its extravagant and spectacular shows. You can find a variety of spectacles, including:
+
+1. **Cabarets**: The Moulin Rouge's main attraction is its cabarets, which feature a mix of music, dance, and theater performances. These shows typically include a range of acts, such as can-can dancing, acrobatics, and other forms of entertainment.
+2. **Burlesque Shows**: The Moulin Rouge is famous for its burlesque shows, which are a mix of striptease, dance, and comedy. These shows often feature elaborate costumes and sets.
+3. **Dance Performances**: The Moulin Rouge features a range of dance styles, including ballet, contemporary, and hip-hop. You can see talented dancers perform in elaborate costumes and sets.
+4. **Musical Performances**: The Moulin Rouge often features musical performances, including singers, bands, and orchestras. These shows can range from classical to contemporary music.
+5. **Themed Shows**: The Moulin Rouge occasionally hosts themed shows, such as holiday-themed performances or shows based on famous musicals.
+6. **Variety Acts**: The Moulin Rouge features a range of variety acts, including jugglers, acrobats, and other performers who showcase their unique talents.
+
+Some of the most popular shows at the Moulin Rouge include:
+
+* **Féerie**: A classic cabaret show featuring a mix of dance, music, and theater performances.
+* **Amélie**: A show inspired by the popular French film, featuring a mix of music, dance, and theater performances.
+* **Moulin Rouge: The Show**: A new, immersive show that takes audiences on a journey through the history of the Moulin Rouge.
+
+Overall, the Moulin Rouge offers a unique and unforgettable spectacle that combines music, dance, and theater in a way that is quintessentially Parisian."
+R7.Q3,"The Palais Garnier is indeed also known as the Opéra Garnier in Paris. The reason for this dual name is due to the building's primary function. The Palais Garnier refers to the grand building itself, which serves as a cultural and architectural landmark. 
+
+On the other hand, the Opéra Garnier specifically refers to the opera house located within the Palais Garnier. The name 'Opéra Garnier' emphasizes the building's role as a venue for ballet, opera, and other musical performances."
+R8.Q1,"The Musée d'Orsay in Paris is one of the world's most renowned museums, housing an impressive collection of Impressionist, Post-Impressionist, and Art Nouveau art. Here are some of the most famous artists and artworks you can find in the Musée d'Orsay:
+
+1. **Claude Monet**: A leading figure of Impressionism, Monet's works include:
+	* ""Impression, Sunrise"" (1872) - the painting that gave the name to the Impressionist movement
+	* ""Water Lilies"" (1919) - a series of paintings depicting his famous garden pond at Giverny
+2. **Pierre-Auguste Renoir**: A prominent Impressionist painter, Renoir's works include:
+	* ""Dance at Le Moulin de la Galette"" (1876) - a lively depiction of a Parisian dance hall
+	* ""The Luncheon of the Boating Party"" (1881) - a famous painting of a group of friends enjoying a meal
+3. **Vincent van Gogh**: Although van Gogh is often associated with the Post-Impressionist movement, he is also represented in the Musée d'Orsay with:
+	* ""The Church at Auvers"" (1890) - a painting of a church in the village where van Gogh spent his final days
+4. **Paul Cézanne**: A pioneering Post-Impressionist painter, Cézanne's works include:
+	* ""The Bathers"" (1898-1905) - a series of paintings depicting figures in a landscape
+5. **Edgar Degas**: A leading figure of Impressionism, Degas' works include:
+	* ""The Dance Class"" (1871-1874) - a painting of a ballet class
+	* ""L'Absinthe"" (1876) - a painting of a group of women enjoying absinthe
+6. **Camille Pissarro**: A Danish-French Impressionist painter, Pissarro's works include:
+	* ""Boulevard Montmartre at Night"" (1897-1898) - a painting of a Parisian street scene at night
+7. **Berthe Morisot**: One of the first female Impressionist painters, Morisot's works include:
+	* ""The Cradle"" (1872) - a painting of a mother holding her child
+8. **Mary Cassatt**: An American Impressionist painter, Cassatt's works include:
+	* ""The Boating Party"" (1893) - a painting of a group of women enjoying a boat ride
+
+These are just a few of the many famous artists and artworks you can find in the Musée d'Orsay. The museum's collection is incredibly diverse and extensive, making it a must-visit destination for art lovers."
+R8.Q2,'The Obélisque de Louxor, also known as the Luxor Obelisk, is an ancient Egyptian obelisk that stands in the Place de la Concorde in Paris, France. It was originally erected in the Temple of Amun at Luxor (formerly known as Thebes) in Egypt around 1300 BC during the reign of Pharaoh Ramses II.\n\nThe obelisk was brought to Paris in 1831 by French engineers and was installed in the Place de la Concorde in 1836. The decision to move the obelisk was made by King Louis-Philippe, who wanted to create a grand monument in Paris that would rival the great monuments of ancient Rome.\n\nThe obelisk was transported to Paris on a ship, where it was reassembled and erected in the Place de la Concorde. It stands 23 meters (75 feet) tall and weighs over 250 tons.\n\nThe Obélisque de Louxor symbolizes several things:\n\n1. **Egyptomania**: The obelisk was a symbol of the fascination with ancient Egypt that was prevalent in Europe during the 19th century, known as Egyptomania. The obelisk was seen as a connection to the ancient Egyptian civilization and its rich history.\n2. **French colonial power**: The removal of the obelisk from Egypt was also seen as a symbol of French colonial power and influence in the region. The French saw themselves as the rightful heirs to the ancient Egyptian civilization and wanted to claim its legacy for themselves.\n3. **Monumental architecture**: The obelisk was also seen as a symbol of monumental architecture, reflecting the grandeur and power of the French monarchy. It was intended to be a grand monument that would inspire awe and admiration in those who saw it.\n\nOverall, the Obélisque de Louxor is a symbol of French cultural and historical heritage, as well as a testament to the enduring fascination with ancient Egypt that has captivated people for centuries.'
+R8.Q3,"The Musée de l'Orangerie is a modern art museum located in the heart of Paris, France. It is particularly famous for housing an impressive collection of Impressionist and Post-Impressionist art, including the famous Water Lilies (Nymphéas) series by Claude Monet, which are displayed in a pair of large, oval-shaped rooms.
+
+The museum was originally built in the 18th century as a greenhouse (hence its name, ""Orangerie,"" which means ""orange house"" in French) to shelter orange trees during the winter months. It was later converted into an art museum in the early 20th century and has been a popular destination for art lovers ever since.
+
+The Musée de l'Orangerie is a must-visit destination for anyone interested in modern art, Impressionism, and Post-Impressionism, and it is considered one of the top museums in Paris."
+R9.Q1,"The designer of the Champ de Mars in Paris is Ange-Jacques Gabriel. However, it was initially designed by Gabriel but the current design is largely due to the modifications made by his brother, Jacques-Gabriel Gabriél's son."
+R9.Q2,"I couldn't find any information on a monument called ""Flamme de la Liberté"" in Paris."
+R9.Q3,"The Musée du Quai Branly – Jacques Chirac is a museum of anthropology in Paris, France. It is primarily dedicated to the art and cultures of Africa, Asia, Oceania, and the Americas."
+R0,"To walk from the Basilique du Sacré-Cœur de Montmartre to Cimetière de Montmartre in Paris, follow these steps:
+
+1. Start at the Basilique du Sacré-Cœur de Montmartre. You'll be at the top of a hill, and the basilica is a prominent landmark. 
+
+2. From the basilica, head down the stairs and walk towards the Rue Saint-Vincent. You'll see a street sign indicating the direction you need to go.
+
+3. Walk down Rue Saint-Vincent for about 350 meters. The street will lead you through a charming neighborhood with shops and cafes.
+
+4. Continue straight on Rue Saint-Vincent until you reach the intersection with Rue des Abbesses. 
+
+5. At the intersection, turn left onto Rue des Abbesses. The street will take you through the heart of the Montmartre neighborhood.
+
+6. Walk down Rue des Abbesses for about 400 meters. The street will lead you through a mix of shops, cafes, and historic buildings.
+
+7. Continue straight on Rue des Abbesses until you reach the intersection with Rue de l'Abreuvoir.
+
+8. Turn right onto Rue de l'Abreuvoir. This street will lead you towards the Cimetière de Montmartre.
+
+9. Walk down Rue de l'Abreuvoir for about 250 meters. The street will lead you through a quieter neighborhood.
+
+10. Continue straight on Rue de l'Abreuvoir until you reach the entrance to the Cimetière de Montmartre.
+
+11. The cemetery is located on your right, and you can enter through the main gate.
+
+Please note that the walking distance is approximately 1.2 kilometers, and the walk should take around 20-25 minutes."
+R1,"To walk from Sainte-Chapelle to the Pantheon in Paris while avoiding areas with heavy car traffic, I've created a route for you.
+
+First, start at Sainte-Chapelle, located on the Île de la Cité. From there, head east towards the Seine River and cross the river using the pedestrian bridge, Pont aux Changeurs, or the pedestrian bridge near the Seine river, near the Sainte-Chapelle.
+
+Once you're on the right bank, walk north along the Rue de Rivoli for about 0.4 km. Continue straight onto Rue de l'Abbé de l'Épée. You'll pass by the beautiful Luxembourg Gardens on your left.
+
+Next, continue onto Rue de l'Abbé de l'Épée for approximately 0.4 km until you reach the Rue de l'Abbé de l'Épée/Rue de l'Abbé de l'Épée intersection, then head left onto Rue de l'Abbé de l'Épée for 0.2 km. 
+
+Turn right onto Rue Soufflot and continue for about 0.2 km. The Pantheon will be on your right-hand side. 
+
+The entire route is approximately 1.4 km and should take about 20-25 minutes to complete on foot. This route avoids busy car-filled streets and takes you through some of Paris' most beautiful and historic areas."
+R2,"To walk from Trocadéro to the Arc de Triomphe, I'll suggest a wheelchair-friendly route for you. 
+
+First, head east on Avenue de Camille Desmoulins toward Place du Trocadéro et du 11 Novembre. Continue on Avenue de Camille Desmoulins for approximately 300 meters.
+
+Next, turn left onto Avenue Winston Churchill. This road is wide and has a smooth surface, making it suitable for wheelchairs. Continue on Avenue Winston Churchill for about 800 meters.
+
+As you approach the intersection with Avenue de la Grande Armée, you'll see a large roundabout. Be cautious here, as it can be challenging to navigate for wheelchair users. To avoid the roundabout, turn right onto Avenue de la Grande Armée instead.
+
+Continue on Avenue de la Grande Armée for approximately 400 meters. You'll pass by several cafes and shops along the way. The road is relatively flat and has a smooth surface.
+
+After passing the intersection with Rue du Faubourg Saint-Honoré, turn left onto Avenue de la Grande Armée's service road. This service road is slightly narrower but still wheelchair-friendly.
+
+As you approach the intersection with Place Charles de Gaulle, you'll see the Arc de Triomphe in front of you. Turn left onto Place Charles de Gaulle to reach the monument.
+
+Please note that while I've tried to suggest a wheelchair-friendly route, Parisian streets can be uneven, and some areas might have cobblestone or uneven pavement. Be cautious and consider using a map or GPS to help navigate the route.
+
+Additionally, you can consider using the Parisian public transportation system, such as the metro or bus, which often have wheelchair-accessible routes and vehicles."
+R3,"To walk from Place des Vosges to Jardin des Plantes in Paris, I can guide you through the most scenic route.
+
+First, start at Place des Vosges. Begin by walking north on Rue de Birague towards Rue de Béarn. Continue on Rue de Béarn for about 250 meters until you reach the charming Rue de la Perle. 
+
+Now, take a right turn onto Rue de la Perle and walk for about 150 meters. You'll find a lovely café, 'Café de la Paix,' on your left. Take a moment to stop here and enjoy a coffee. They have a cozy atmosphere and an assortment of French pastries.
+
+After your coffee break, head back onto Rue de la Perle and continue walking for another 150 meters until you reach Rue de la Verrerie. Take a left turn onto Rue de la Verrerie.
+
+As you walk along Rue de la Verrerie, you'll come across the beautiful Musée des Égouts de Paris. While not an artwork, it's an interesting historical site showcasing Paris' sewer system. However, if you're looking to see an artwork, I recommend turning right onto Rue de l'Hôtel-de-Ville. 
+
+On Rue de l'Hôtel-de-Ville, you'll find the Musée de la Ville de Paris, which has a collection of artworks and historical artifacts. Take a moment to visit the museum and admire the artwork on display.
+
+After visiting the museum, head back to Rue de la Verrerie and continue walking north for about 300 meters. You'll reach the beautiful Jardin des Plantes. Take a stroll through the gardens and enjoy the peaceful atmosphere.
+
+The walking distance from Place des Vosges to Jardin des Plantes is approximately 1.5 kilometers, and the journey should take around 20-25 minutes on foot, depending on your pace."
+R4,"To walk to your hotel in 1 All. du Verger, Roissy-en-France, from Paris Charles de Gaulle International Airport, I'll provide you with the best route.
+
+First, you'll need to exit the airport terminal. From there, follow the signs to the 'Roissy-en-France' or 'Aéroport Paris-Roissy' direction. You'll see a large road called 'Avenue de l'Europe'. Cross the road and head straight on the Avenue de l'Europe, towards the direction of the airport's north side.
+
+Continue walking on Avenue de l'Europe for approximately 400 meters. You'll see a pedestrian path on your right-hand side, which is part of the 'Voie Verte de l'Ourcq' green route. Take this path, and it will lead you through a scenic route along the Ourcq canal.
+
+The Voie Verte de l'Ourcq path will take you through a mix of woodland and parkland, offering a pleasant walk. The path is approximately 6 kilometers long and will take you to the outskirts of Roissy-en-France.
+
+Continue on the Voie Verte de l'Ourcq path for about 4.5 kilometers until you reach a road called 'Route de l'Aéroport'. At this point, you'll need to cross the road using the pedestrian crossing.
+
+Once you've crossed the road, continue straight on the 'Route de l'Aéroport' for approximately 200 meters. You'll see a sign pointing to 'Roissy-en-France' and 'Centre'. Follow this sign and turn left onto the 'Route de l'Aéroport' towards Roissy-en-France.
+
+Continue walking on the Route de l'Aéroport for about 1.5 kilometers until you reach the town center of Roissy-en-France. As you enter the town center, you'll see a roundabout. Take the third exit from the roundabout, which is the 'Allée du Verger' road.
+
+Follow the Allée du Verger road for approximately 300 meters until you reach your destination at 1 Allée du Verger.
+
+Please note that the walking distance is approximately 10 kilometers, and the walk should take around 2-3 hours, depending on your pace. Make sure to wear comfortable shoes and stay hydrated during your walk."
+R5,"To get to your hotel in Avenue Jacqueline Auriol Orlytech, Paray-Vieille-Poste from Paris-Orly Airport, follow these steps:
+
+1. From Paris-Orly Airport, head towards the 'Sortie' (exit) signs. You'll see the 'Orly 1' and 'Orly 2' terminals. Take the exit towards 'Orly 1' or 'Orly 2' depending on your terminal.
+
+2. Once you exit the terminal, follow the signs for 'Bus' or 'Tramway'. You'll see a bus stop or tramway station nearby. 
+
+3. Take the Tramway T7 towards 'Athis-Mons'. The journey takes approximately 15-20 minutes, and you'll pass through the 'Orly Ville' station.
+
+4. Get off at the 'Orly Ville' station and follow the signs for 'Sortie' or 'Exit'. You'll see a pedestrian exit leading you out of the tramway station.
+
+5. Once you exit the tramway station, follow the signs for 'Rue de la République' or 'Avenue de Paris'. You'll see the tramway tracks and a wide road ahead of you.
+
+6. Cross the road at the pedestrian crossing and continue on 'Rue de la République'. You'll pass by some shops and cafes on your right-hand side.
+
+7. Continue on 'Rue de la République' for approximately 1.5 kilometers until you reach the 'Avenue de Paris'.
+
+8. Turn left onto 'Avenue de Paris' and continue for about 1 kilometer. You'll pass by some more shops and cafes on your right-hand side.
+
+9. Continue on 'Avenue de Paris' until you reach the 'Avenue Jacqueline Auriol Orlytech'. Your hotel should be on your left-hand side.
+
+10. Turn left onto 'Avenue Jacqueline Auriol Orlytech' and your hotel should be in front of you.
+
+Please note that walking times and distances may vary depending on your individual pace and the route taken. It's also a good idea to check for any road closures or construction before embarking on your journey."
+R6,"To walk from Notre-Dame de Paris to the Louvre Museum, I'd be happy to guide you.
+
+First, start at the famous Notre-Dame de Paris, located on the Île de la Cité. Begin by heading north on Rue du Parvis Notre-Dame - Patrick de La Chappelle towards Quai de la Corse. 
+
+As you walk, you'll pass by the beautiful Sainte-Chapelle, a stunning Gothic chapel with stunning stained-glass windows. You can take a quick detour to admire its beauty, if you'd like.
+
+Continue walking north on Quai de la Corse, and then turn left onto Rue de Rivoli. This iconic street is lined with cafes, shops, and restaurants, so you'll have plenty of options to grab a snack or buy a souvenir.
+
+As you stroll along Rue de Rivoli, you'll pass by the famous Pont des Arts, a pedestrian bridge with great views of the Seine River. Take a moment to appreciate the street performers and artists along the way.
+
+After crossing the Pont des Arts, turn left onto Rue de l'Amiral de Coligny, and then turn right onto Rue de la Monnaie. This will take you directly to the Louvre Museum.
+
+The Louvre is a world-famous museum, and you can spend hours exploring its vast collections of art and artifacts. Be sure to check out the Mona Lisa, Venus de Milo, and other iconic works of art.
+
+As for souvenirs and typical food, you'll find plenty of options along Rue de Rivoli and the surrounding streets. Try a classic French baguette or croissant from a local bakery, or grab a coffee at a charming café. For souvenirs, consider visiting the iconic Galeries Lafayette or Le Bon Marché department stores, or browse the charming shops and stalls along the Seine.
+
+Enjoy your walk from Notre-Dame to the Louvre, and bon appétit!"
+R7,"I can guide you on how to walk from the Opera Garnier to the Moulin Rouge in Paris. 
+
+First, let's start at the Opera Garnier. To begin, head east from the Opera Garnier on Rue Auber. Continue walking on Rue Auber for about 0.2 kilometers until you reach the Boulevard Haussmann. 
+
+Turn left onto Boulevard Haussmann and walk north for approximately 0.4 kilometers. Along the way, you'll pass by the Galeries Lafayette department store, which has a lovely café on the top floor offering great views of the city. If you'd like to stop for a coffee, you can take the elevator to the top floor and enjoy a coffee while taking in the sights. 
+
+Once you've finished your coffee, continue walking north on Boulevard Haussmann for another 0.2 kilometers. Then, turn right onto Rue Lepic. 
+
+Walk down Rue Lepic for approximately 0.5 kilometers until you reach the Boulevard de Clichy. Turn left onto Boulevard de Clichy and continue walking west for about 0.2 kilometers. 
+
+The Moulin Rouge will be on your right at 82 Boulevard de Clichy. It's a famous cabaret and a popular tourist destination, known for its stunning architecture and lively atmosphere. 
+
+The total walking distance from the Opera Garnier to the Moulin Rouge is approximately 1.5 kilometers, and the journey should take around 25-30 minutes on foot, depending on your pace."
+R8,"To walk from the Musée d'Orsay to Place de la Concorde in Paris, I'd be happy to guide you through a route with minimal car traffic.
+
+First, start at the Musée d'Orsay (1 Rue de la Légion d'Honneur, 75007 Paris). From the museum's main entrance, head east on Rue de la Légion d'Honneur towards Rue de Bellechasse. 
+
+Turn left onto Rue de Bellechasse and continue walking for about 300 meters. You'll pass by the beautiful Seine River and enjoy the scenic views of the city.
+
+Next, turn right onto Quai Malaquais, which is a pedestrian-friendly street that runs along the Seine River. Continue walking on Quai Malaquais for approximately 400 meters.
+
+Turn left onto Pont des Arts, a pedestrian bridge that offers stunning views of the Seine River and the city's landmarks. Cross the bridge and continue walking on the other side.
+
+Once you reach the other side, turn right onto Rue de Rivoli. Continue walking on Rue de Rivoli for about 400 meters.
+
+Turn left onto Rue Royale, which will take you to Place de la Concorde. You'll pass by the beautiful Hôtel de la Marine and the iconic Obelisk of Luxor.
+
+Arrive at Place de la Concorde, one of the most famous squares in Paris, surrounded by beautiful fountains, statues, and stunning architecture.
+
+The total walking distance is approximately 1.5 kilometers, and the journey should take around 20-25 minutes, depending on your pace.
+
+Please note that while this route avoids major roads with heavy car traffic, it's still a good idea to be mindful of your surroundings and follow local pedestrian rules to ensure a safe and enjoyable walk."
+R9,"To walk from the Eiffel Tower to the Champs-Élysées and see a street artist, I'd be happy to help. 
+
+First, let's get to the Eiffel Tower. You're already there. From the Eiffel Tower, head east on Avenue Gustave Eiffel toward Rue Garibaldi. Continue on Avenue Gustave Eiffel for about 0.2 miles until you reach the Seine River.
+
+Cross the Seine River on Pont Alexandre III, a beautiful iron bridge with stunning views of the Eiffel Tower and the Seine. Once you're on the other side, turn left onto Avenue de la Bourdonnais. 
+
+Walk north on Avenue de la Bourdonnais for about 0.3 miles until you reach the famous street artist area, Place du Trocadéro. This is a great spot to see some talented artists at work. Take some time to admire their artwork and maybe even purchase a piece.
+
+From Place du Trocadéro, head east on Avenue Paul Doumer toward Place de la Porte Maillot. Continue on Avenue Paul Doumer for about 0.4 miles until you reach the Champs-Élysées. 
+
+Turn left onto the Champs-Élysées, and you'll be surrounded by beautiful architecture, cafes, and shops. The Champs-Élysées is a famous avenue that stretches from the Arc de Triomphe to the Place de la Concorde.
+
+The walking distance from the Eiffel Tower to the Champs-Élysées is approximately 1.3 miles, and the walk should take about 25-30 minutes. Please note that the route and duration may vary depending on your pace and any potential road closures.
+
+I hope you enjoy your walk and see some amazing street art along the way!"
