@@ -222,8 +222,12 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
         place_A = place_A.split(",")[0]
         place_B = place_B.split(",")[0]
         
-        with open(f"../../output/best_routes/best_route_from_{place_A}_to_{place_B}.json", "w", encoding="utf-8") as f:
+        file_path = f"../../output/best_routes/best_route_from_{place_A}_to_{place_B}.json"
+        
+        with open(file_path, "w", encoding="utf-8") as f:
             json.dump(best_route, f, ensure_ascii=False, indent=4)
 
         print("File best_route.json saved successfully.")
+        
+        return file_path
         

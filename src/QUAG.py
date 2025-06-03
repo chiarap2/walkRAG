@@ -1,5 +1,6 @@
 from RAG_system.utils import query_llm
 import re
+from spatial_component.main import spatialComponent
 
 class QUAG:
     def __init__(self, rag, tokenizer, model):
@@ -35,10 +36,24 @@ class QUAG:
         
         return query_llm(query, instruction, self.tokenizer, self.model, temperature=0.7, max_new_tokens=1000)
 
-    def handle_query(self, query, json_path=None):
+    def handle_query(self, query):
         classification = self.classify_intent(query)
-        if "Spatial Request" in classification and json_path:
-            return self.rag.handle_spatial_request(query, json_path)
+        if "Spatial Request" in classification:
+            
+            place_from = re.search(r'From:\s*(.*)\\n', classification)
+            place_to = re.search(r'To:\s*(.*)\\n', classification)
+            
+            walkability_indicators = re.search(r'Walkability Indicators:\s*\[(.*)\]', classification)
+            poi_categories = re.search(r'POI Categories:\s*\[(.*)\]', classification)
+            
+            json_path = spatialComponent(place_A=place_from.group(1).strip() if place_from else None,
+                                         place_B=place_to.group(1).strip() if place_to else None,
+                                         walkability_indicators=walkability_indicators.group(1).strip() if walkability_indicators else None,
+                                         poi_categories=poi_categories.group(1).strip() if poi_categories else None)
+            if not json_path:
+                return "No valid route found or required file missing."
+            
+            return self.rag.handle_spatial_request(query, json_path=json_path)
         elif "Information Request" in classification:
             return self.rag.handle_information_request(query)
         else:
