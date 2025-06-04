@@ -8,8 +8,9 @@
 
 This project is associated with the paper:
 
-> **Spatially-Enhanced Retrieval-Augmented Generation for Walkability and Urban Discovery**
-> Maddalena Amendola*, Chiara Pugliese*, Raffaele Perego, Chiara Renso
+> **Spatially-Enhanced Retrieval-Augmented Generation for Walkability and Urban Discovery**\\
+> Maddalena Amendola*, Chiara Pugliese*, Raffaele Perego, Chiara Renso\\
+> *Both authors contributed equally to this research.
 
 ---
 
