@@ -41,13 +41,12 @@ The system combines three main components:
 
 ## 📂 Repository Structure
 
-* `quag/` – LLM-based query classification and generation
-* `spatial/` – Route generation, walkability scoring, and POI enrichment
-* `retrieval/` – Dense passage indexing and neural search
-* `dataset/` – WalkRAG evaluation dataset (10 route queries + 30 follow-ups)
-* `notebooks/` – Experimental analysis and visualizations
-* `docs/` – Paper and supplementary material
-
+* `main.py` – sets up and runs the interactive WalkRAG system
+* `QUAG.py` – LLM-based query classification and generation
+* `src/spatial_component/` – Route generation, walkability scoring, and POI enrichment
+* `src/RAG_system/` – Dense passage indexing and neural search
+* `dataset/` – WalkRAG evaluation dataset (10 route queries + 30 follow-ups) 
+* `output/` – WalkRAG outputs
 ---
 
 ## 📊 Evaluation Summary
