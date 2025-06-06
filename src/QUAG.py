@@ -25,7 +25,7 @@ class QUAG:
             Class: Spatial Request  
             From: [fill]  
             To: [fill]  
-            Walkability Indicators: [list the relevant indicators mentioned or implied: [sidewalk availability | air quality index | green areas]. If none are mentioned, return "none"]  
+            Walkability Indicators: [list the relevant indicators mentioned or implied: [sidewalk availability | air quality index | green areas | disability friendly]. If none are mentioned, return "none"]  
             POI Categories: [list of point-of-interest macro-categories the user refers to, if any: [bar | biergarten | cafe | fast_food | pub | restaurant | arts_centre | cinema | fountain | nightclub | bench | drinking_water | dance | garden | shop]. If none are mentioned, return "none"]
 
             2. Information Request – The user is asking for factual, descriptive, or explanatory information about a location, person, event, object, or concept, without requesting a route or spatial navigation.  
@@ -36,21 +36,39 @@ class QUAG:
         
         return query_llm(query, instruction, self.tokenizer, self.model, temperature=0.7, max_new_tokens=1000)
 
+    
+    def parse_field(a):
+        return None if a.lower() == 'none' else [v for v in a.split(',')]
+
     def handle_query(self, query):
         classification = self.classify_intent(query)
-        print(classification)
+        print(type(classification), classification)
         if "Spatial Request" in classification:
             
-            place_from = re.search(r'From:\s*(.*)\\n', classification)
-            place_to = re.search(r'To:\s*(.*)\\n', classification)
+            match = re.search(
+                r'From:\s*(.+?)\s*To:\s*(.+?)\s*Walkability Indicators:\s*(.+?)\s*POI Categories:\s*(.+)',
+                classification,
+                re.DOTALL
+            )
+
+            if match:
+                from_location = match.group(1).strip()
+                to_location = match.group(2).strip()
+                walkability_indicators = match.group(3).strip()
+                poi_categories = match.group(4).strip()
+                
+            walkability_indicators = None if walkability_indicators.lower() == 'none' else [v for v in walkability_indicators.split(', ')]
+            poi_categories = None if poi_categories.lower() == 'none' else [v for v in poi_categories.split(', ')]
             
-            walkability_indicators = re.search(r'Walkability Indicators:\s*\[(.*)\]', classification)
-            poi_categories = re.search(r'POI Categories:\s*\[(.*)\]', classification)
+            print(from_location, to_location, walkability_indicators, poi_categories)
             
-            json_path = spatialComponent(place_A=place_from.group(1).strip() if place_from else None,
-                                         place_B=place_to.group(1).strip() if place_to else None,
-                                         indicators_preference=walkability_indicators.group(1).strip() if walkability_indicators else None,
-                                         pois_user=list(poi_categories.group(1).strip()) if poi_categories else None)
+            json_path = spatialComponent(
+                place_A=from_location,
+                place_B=to_location,
+                indicators_preference=walkability_indicators,
+                pois_user=poi_categories
+            )
+            
             if not json_path:
                 return "No valid route found or required file missing."
             

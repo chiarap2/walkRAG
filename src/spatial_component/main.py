@@ -34,7 +34,6 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
     # place_A = "Leaning tower, Pisa, Italy" # this is the starting point given by the prompt
     # place_B = "Piazza Vittorio Emanuele II, Pisa, Italy" # this is the destination given by the prompt
     # city = "Pisa"
-
     geolocator = Nominatim(user_agent="my_app", timeout=10)
     locA = geolocator.geocode(place_A)
     locB = geolocator.geocode(place_B)
@@ -42,7 +41,7 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
     latB, lonB = locB.latitude, locB.longitude
     
     # Weights for walkability score indicators
-    all_keys = ['green', 'pedestrian_friendly', 'disability_friendly', 'air_quality']
+    all_keys = ['green areas', 'sidewalk availability', 'disability friendly', 'air quality index']
     RAW_WEIGHTS = dict.fromkeys(all_keys, 1/4)
     
     if indicators_preference is None or len(indicators_preference) == 4:
@@ -124,11 +123,11 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
         cols.append(key)
     cols = [col for col in cols if col in routes_gdf.columns]
     routes_gdf = routes_gdf.drop_duplicates(subset=cols)
-    
+    """
     for key in walkability_indicators.keys():
         if key in routes_gdf.columns:
             routes_gdf = routes_gdf[routes_gdf[key].isin(walkability_indicators[key]) | routes_gdf[key].isnull()]
-    
+    """
     #----- GET BEST ROUTE -----
     routes_grouped = routes_gdf.groupby("route_id")
 

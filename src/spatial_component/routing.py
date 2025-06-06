@@ -25,7 +25,6 @@ def routing_graphhopper(lonStart, latStart, lonEnd, latEnd, mode='foot', graphho
     
     # Extract the routes from the response
     segments = []
-
     for l, route_option in enumerate(routes.raw['paths']):
         # decoding geometry
         geometry = polyline.decode(route_option['points'], precision=5)
@@ -49,6 +48,7 @@ def routing_graphhopper(lonStart, latStart, lonEnd, latEnd, mode='foot', graphho
                 'geometry': segment,
                 'instruction': inst_text
             })
+        
         if len(geometry) > 2:
             # Add the last segment
             segments.append({
