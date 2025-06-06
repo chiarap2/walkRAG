@@ -1,0 +1,930 @@
+{
+    "route_id": 0,
+    "from": "Trocadéro",
+    "to": "Arc de Triomphe",
+    "length_m": 2437.9994202306984,
+    "walkability_score": 0.6806249999999999,
+    "air_quality": "Fair",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 0,
+            "instruction": "Continue onto Place du Trocadéro et du 11 Novembre 1918",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Les jardins",
+                        "Les oiseaux",
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "Le Matin",
+                        "Flore",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 1,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "Le Matin",
+                        "Flore",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 2,
+            "instruction": "Turn slight right onto Place du Trocadéro et du 11 Novembre 1918",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "Flore",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 3,
+            "instruction": "Turn left onto Place du Trocadéro et du 11 Novembre 1918",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "Flore",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 4,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 5,
+            "instruction": "Turn sharp left",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 6,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": [
+                        "Statue Equestre du Maréchal Ferdinand Foch",
+                        "La Jeunesse"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 7,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Palais de Chaillot"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "park": [
+                        "Jardins du Trocadéro"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 8,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 9,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 10,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 11,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 12,
+            "instruction": "Turn right onto Avenue Kléber",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "La Clef Tour Eiffel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 13,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "La Clef Tour Eiffel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 14,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "La Clef Tour Eiffel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 15,
+            "instruction": "Turn right onto Avenue Kléber",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "La Clef Tour Eiffel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 16,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "La Clef Tour Eiffel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 17,
+            "instruction": "Turn right onto Avenue Kléber",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "La Clef Tour Eiffel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 18,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "La Clef Tour Eiffel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 19,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "La Clef Tour Eiffel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 20,
+            "instruction": "Turn left",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 21,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Baltimore"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 22,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Baltimore"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 23,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Baltimore"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 24,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Baltimore"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 25,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Baltimore"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 26,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Baltimore"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 27,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Baltimore"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 28,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Baltimore"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 29,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Baltimore"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 30,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 31,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 32,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Édicule Guimard"
+                    ],
+                    "gallery": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 33,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 34,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 35,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 36,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 37,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Élysées Union"
+                    ],
+                    "gallery": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 38,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 39,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 40,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 41,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 42,
+            "instruction": "Turn slight right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 43,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 44,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 45,
+            "instruction": "Turn right",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 46,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "The Peninsula Paris",
+                        "Hôtel Raphael"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 47,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Raphael"
+                    ],
+                    "artwork": [
+                        "Édicule Guimard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 48,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 49,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 50,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 51,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 52,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 53,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 54,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 55,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 56,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 57,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 58,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 59,
+            "instruction": "Turn slight left onto Passage du Souvenir",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Tombe du Soldat inconnu",
+                        "Arc de Triomphe"
+                    ],
+                    "viewpoint": [
+                        "Toit de l'Arc de Triomphe"
+                    ],
+                    "museum": [
+                        "Musée de l'Arc de Triomphe"
+                    ],
+                    "artwork": [
+                        "La Paix de 1815"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 60,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Tombe du Soldat inconnu",
+                        "Arc de Triomphe"
+                    ],
+                    "viewpoint": [
+                        "Toit de l'Arc de Triomphe"
+                    ],
+                    "museum": [
+                        "Musée de l'Arc de Triomphe"
+                    ],
+                    "artwork": [
+                        "La Paix de 1815"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 61,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Tombe du Soldat inconnu",
+                        "Arc de Triomphe"
+                    ],
+                    "viewpoint": [
+                        "Toit de l'Arc de Triomphe"
+                    ],
+                    "museum": [
+                        "Musée de l'Arc de Triomphe"
+                    ],
+                    "artwork": [
+                        "La Paix de 1815"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 62,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Tombe du Soldat inconnu",
+                        "Arc de Triomphe"
+                    ],
+                    "viewpoint": [
+                        "Toit de l'Arc de Triomphe"
+                    ],
+                    "museum": [
+                        "Musée de l'Arc de Triomphe"
+                    ],
+                    "artwork": [
+                        "La Paix de 1815"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 63,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "Tombe du Soldat inconnu",
+                        "Arc de Triomphe"
+                    ],
+                    "viewpoint": [
+                        "Toit de l'Arc de Triomphe"
+                    ],
+                    "museum": [
+                        "Musée de l'Arc de Triomphe"
+                    ],
+                    "artwork": [
+                        "La Paix de 1815"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        }
+    ]
+}

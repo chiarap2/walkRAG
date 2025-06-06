@@ -12,8 +12,8 @@ from spatial_component.enrichment import pois, add_pois_areas_to_gdf, pollution_
 from spatial_component.describe_walkability import compute_walkability_score, aggregate_segment_pois_by_type
 
 # ----- CONFIGURATION -----
-OWM_API_KEY = "86f3b5265ec1d4daf3434cad93141670"  # OpenWeatherMap API key
-GRAPHHOPPER_API = "3d3fdeee-0b60-4240-a648-1b0c0175b719"  # GraphHopper API key
+OWM_API_KEY = "INSERT YOUR KEY"  # OpenWeatherMap API key
+GRAPHHOPPER_API = "INSERT YOUR KEY"  # GraphHopper API key
 # Lists for category matching
 GREEN_TAGS = {
     'leisure': {'park', 'nature_reserve', 'garden'},
@@ -27,6 +27,55 @@ PED_FRIENDLY_TAGS = {
 }
 DISABILITY_TAGS = {'yes', 'limited', 'designated'}
 MAX_COUNT = 5  # Maximum count for each indicator
+
+def categorize_pois(poi_list):
+    
+    mapping = {
+        "art_centre": "tourism",
+        "bakery": "amenity",
+        "bar": "amenity",
+        "biergarten": "amenity",
+        "bench": "amenity",
+        "books": "shop",
+        "cafe": "amenity",
+        "castle": "tourism",
+        "cinema": "amenity",
+        "church": "place_of_worship",
+        "clothes": "shop",
+        "convenience": "shop",
+        "dance": "leisure",
+        "drinking_water": "amenity",
+        "fast_food": "amenity",
+        "fountain": "amenity",
+        "gallery": "tourism",
+        "garden": "leisure",
+        "ice_cream": "amenity",
+        "information": "tourism",
+        "monument": "tourism",
+        "museum": "tourism",
+        "nature_reserve": "leisure",
+        "nightclub": "amenity",
+        "park": "leisure",
+        "pitch": "leisure",
+        "place_of_worship": "place_of_worship",
+        "pub": "amenity",
+        "restaurant": "amenity",
+        "shop": "shop",
+        "sports_centre": "leisure",
+        "stadium": "leisure",
+        "supermarket": "shop",
+        "temple": "place_of_worship",
+        "toilets": "amenity"
+    }
+ 
+    categorized = {}
+    for poi in poi_list:
+        key = mapping.get(poi)
+        if key:
+            categorized.setdefault(key, []).append(poi)
+        else:
+            categorized.setdefault("unknown", []).append(poi)
+    return categorized
 
 def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=None):
     # ----- INITIALIZATION -----
@@ -105,7 +154,9 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
         }
     
     if pois_user is not None:
-        pois_list.update(pois_user)
+        new_pois_user = categorize_pois(pois_user)
+        print(new_pois_user)
+        pois_list.update(new_pois_user)
     
     # Merge the two dictionaries
     walkability_indicators.update(pois_list)
@@ -149,7 +200,8 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
         aqi_inverse = 6 - aqi
         
         # Calculate the walkability score for the route.
-        sum_counts = {'green':0, 'pedestrian_friendly':0, 'disability_friendly':0, 'air_quality':aqi_inverse}
+        
+        sum_counts = {'green areas':0, 'sidewalk availability':0, 'disability friendly':0, 'air quality index':aqi_inverse}
         n_segments = 0
         
         # Process each segment
@@ -167,9 +219,9 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
             c_ped = min(c_ped, MAX_COUNT)
             c_dis = min(c_dis, MAX_COUNT)
             # Accumulate
-            sum_counts['green'] += c_green
-            sum_counts['pedestrian_friendly'] += c_ped
-            sum_counts['disability_friendly'] += c_dis
+            sum_counts['green areas'] += c_green
+            sum_counts['sidewalk availability'] += c_ped
+            sum_counts['disability friendly'] += c_dis
 
         
             # Use the first row's instruction as the segment instruction (default to "N/A" if missing).
@@ -208,7 +260,7 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
             "length_m": route_length,
             "walkability_score": walk_score,
             "air_quality": aqi,
-            "disability_friendly": "yes" if sum_counts['disability_friendly'] > 0 else "no",
+            "disability_friendly": "yes" if sum_counts['disability friendly'] > 0 else "no",
             "segments": segments_info
         }
         routes_summary.append(route_dict)
@@ -222,7 +274,7 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
         place_A = place_A.split(",")[0]
         place_B = place_B.split(",")[0]
         
-        file_path = f"../../output/best_routes/best_route_from_{place_A}_to_{place_B}.json"
+        file_path = f"./output/best_routes/best_route_from_{place_A}_to_{place_B}.json"
         
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(best_route, f, ensure_ascii=False, indent=4)

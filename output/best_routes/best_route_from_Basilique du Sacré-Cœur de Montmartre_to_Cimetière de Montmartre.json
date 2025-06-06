@@ -1,0 +1,1795 @@
+{
+    "route_id": 0,
+    "from": "Basilique du Sacré-Cœur de Montmartre",
+    "to": "Cimetière de Montmartre",
+    "length_m": 2418.3742607303743,
+    "walkability_score": 0.475,
+    "air_quality": "Fair",
+    "disability_friendly": "yes",
+    "segments": [
+        {
+            "segment_id": 0,
+            "instruction": "Continue",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel",
+                        "Square Marcel-Bleustein-Blanchet"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 1,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 2,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 3,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 4,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 5,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 6,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 7,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 8,
+            "instruction": "Turn sharp right onto Parvis du Sacré-Cœur",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 9,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ],
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 10,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 11,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 12,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 13,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Louise Michel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 14,
+            "instruction": "Turn right onto Parvis du Sacré-Cœur",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar",
+                        "Square Louise Michel"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1,
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 15,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar",
+                        "Square Louise Michel"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1,
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 16,
+            "instruction": "Turn right onto Parvis du Sacré-Cœur",
+            "poi": {
+                "tourism": {
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar",
+                        "Square Louise Michel"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": 1,
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 17,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre"
+                    ],
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar",
+                        "Square Louise Michel"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ],
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 18,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar",
+                        "Square Louise Michel"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ],
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 19,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar",
+                        "Square Louise Michel"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ],
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 20,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre"
+                    ],
+                    "viewpoint": [
+                        "Montmartre"
+                    ],
+                    "attraction": [
+                        "Basilique du Sacré-Cœur"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar",
+                        "Square Louise Michel"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ],
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 21,
+            "instruction": "Turn slight right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ],
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 22,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ],
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 23,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ],
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 24,
+            "instruction": "Turn right onto Rue du Mont Cenis",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "L'Atelier d'Art"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "tree": [
+                        "Sophora du Japon"
+                    ],
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 25,
+            "instruction": "Turn left onto Place Jean Marais",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "L'Atelier d'Art"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "wood": [
+                        "Square Nadar"
+                    ],
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 26,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Chevalier de La Barre",
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "L'Atelier d'Art"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "wood": [
+                        "Square Nadar"
+                    ],
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 27,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "L'Atelier d'Art"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "wood": [
+                        "Square Nadar"
+                    ],
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 28,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Fontaine Wallace"
+                    ],
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "L'Atelier d'Art"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "wood": [
+                        "Square Nadar"
+                    ],
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 29,
+            "instruction": "Turn right onto Place Jean Marais",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "Galerie Robert Philippy",
+                        "L'Atelier d'Art"
+                    ]
+                },
+                "leisure": {
+                    "park": [
+                        "Square Nadar"
+                    ],
+                    "garden": 1
+                },
+                "natural": {
+                    "wood": [
+                        "Square Nadar"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 30,
+            "instruction": "Turn left onto Rue Norvins",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "L'Atelier d'Art"
+                    ],
+                    "museum": [
+                        "Espace Dali"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                }
+            }
+        },
+        {
+            "segment_id": 31,
+            "instruction": "Continue onto Rue Norvins",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "L'Atelier d'Art"
+                    ],
+                    "artwork": 1,
+                    "museum": [
+                        "Espace Dali"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 32,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "L'Atelier d'Art"
+                    ],
+                    "artwork": 1,
+                    "museum": [
+                        "Espace Dali"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 33,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Galerie Montmartre",
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ],
+                    "artwork": 1,
+                    "museum": [
+                        "Espace Dali"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 34,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 35,
+            "instruction": "Turn left onto Rue Poulbot",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 36,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 37,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 38,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 39,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "museum": [
+                        "Espace Dali"
+                    ],
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie Robert Philippy",
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 40,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 41,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 42,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Bel-Air Fine Art",
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 43,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 44,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie d'Art Céramique"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 45,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément",
+                        "Jardin Frédéric Dard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 46,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément",
+                        "Jardin Frédéric Dard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 47,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément",
+                        "Jardin Frédéric Dard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 48,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Le Passe-Muraille"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Place Jean-Baptiste Clément",
+                        "Jardin Frédéric Dard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 49,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "Le Passe-Muraille"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Frédéric Dard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 50,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "artwork": [
+                        "Le Passe-Muraille"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Frédéric Dard"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 51,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "artwork": [
+                        "Le Passe-Muraille"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Frédéric Dard"
+                    ],
+                    "park": [
+                        "Square Suzanne Buisson"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 52,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "artwork": 1,
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "garden": [
+                        "Jardin Frédéric Dard"
+                    ],
+                    "park": [
+                        "Square Suzanne Buisson"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 53,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1,
+                    "park": [
+                        "Square Suzanne Buisson"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 54,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette",
+                        "Maison de Tristan Tzara"
+                    ],
+                    "hotel": [
+                        "Hôtel Particulier Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                }
+            }
+        },
+        {
+            "segment_id": 55,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "gallery": [
+                        "Galerie L77"
+                    ],
+                    "attraction": [
+                        "Moulin de la Galette",
+                        "Maison de Tristan Tzara"
+                    ],
+                    "hotel": [
+                        "Hôtel Particulier Montmartre"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                }
+            }
+        },
+        {
+            "segment_id": 56,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": 1,
+                    "attraction": [
+                        "Moulin de la Galette",
+                        "Maison de Tristan Tzara"
+                    ],
+                    "hotel": [
+                        "Hôtel Particulier Montmartre",
+                        "Le Très Particulier"
+                    ]
+                },
+                "leisure": {
+                    "garden": 1
+                }
+            }
+        },
+        {
+            "segment_id": 57,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Particulier Montmartre"
+                    ],
+                    "attraction": [
+                        "Maison de Tristan Tzara"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 58,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Particulier Montmartre"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 59,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Hôtel Particulier Montmartre"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 60,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 61,
+            "instruction": "N/A",
+            "poi": {}
+        },
+        {
+            "segment_id": 62,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "cool poster"
+                    ],
+                    "attraction": [
+                        "old Toulouse-Lautrec's studio"
+                    ]
+                }
+            }
+        },
+        {
+            "segment_id": 63,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "cool poster"
+                    ],
+                    "attraction": [
+                        "old Toulouse-Lautrec's studio"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 64,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "cool poster"
+                    ],
+                    "attraction": [
+                        "old Toulouse-Lautrec's studio"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 65,
+            "instruction": "Turn right",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "cool poster"
+                    ],
+                    "attraction": [
+                        "old Toulouse-Lautrec's studio"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 66,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "artwork": [
+                        "cool poster"
+                    ],
+                    "attraction": [
+                        "old Toulouse-Lautrec's studio"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 67,
+            "instruction": "Turn sharp left",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "old Toulouse-Lautrec's studio"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 68,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "attraction": [
+                        "old Toulouse-Lautrec's studio"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 69,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": 1,
+                    "hotel": [
+                        "Terrass'' Hôtel"
+                    ],
+                    "viewpoint": [
+                        "Terrass'' Hôtel"
+                    ],
+                    "attraction": [
+                        "old Toulouse-Lautrec's studio"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 70,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": 1,
+                    "hotel": [
+                        "Terrass'' Hôtel"
+                    ],
+                    "viewpoint": [
+                        "Terrass'' Hôtel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 71,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "gallery": 1,
+                    "hotel": [
+                        "Terrass'' Hôtel"
+                    ],
+                    "viewpoint": [
+                        "Terrass'' Hôtel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 72,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Paris Montmartre 18ème",
+                        "Terrass'' Hôtel",
+                        "Hôtel Mercure Paris Montmartre Sacré Cœur",
+                        "Hôtel Ibis Paris Montmartre"
+                    ],
+                    "gallery": 1,
+                    "artwork": 1,
+                    "viewpoint": [
+                        "Terrass'' Hôtel"
+                    ]
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 73,
+            "instruction": "Turn left",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Paris Montmartre 18ème",
+                        "Hôtel Mercure Paris Montmartre Sacré Cœur",
+                        "Hôtel Ibis Paris Montmartre"
+                    ],
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 74,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Paris Montmartre 18ème",
+                        "Hôtel Mercure Paris Montmartre Sacré Cœur",
+                        "Hôtel Ibis Paris Montmartre"
+                    ],
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 75,
+            "instruction": "N/A",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Paris Montmartre 18ème",
+                        "Hôtel Mercure Paris Montmartre Sacré Cœur",
+                        "Hôtel Ibis Paris Montmartre"
+                    ],
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 76,
+            "instruction": "Turn left onto Avenue Rachel",
+            "poi": {
+                "tourism": {
+                    "hotel": [
+                        "Paris Montmartre 18ème",
+                        "Hôtel Ibis Paris Montmartre"
+                    ],
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 77,
+            "instruction": "Turn left onto Chemin de la Croix",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 78,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 79,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 80,
+            "instruction": "N/A",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 81,
+            "instruction": "Turn left onto Avenue de la Croix",
+            "poi": {
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 82,
+            "instruction": "Turn right onto Chemin Baudin",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 83,
+            "instruction": "Turn left onto Chemin Troyon",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 84,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        },
+        {
+            "segment_id": 85,
+            "instruction": "Arrive at destination",
+            "poi": {
+                "tourism": {
+                    "artwork": 1
+                },
+                "natural": {
+                    "tree": 1
+                }
+            }
+        }
+    ]
+}
