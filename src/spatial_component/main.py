@@ -185,8 +185,8 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
             })
       
         # Calculate the mean counts for each indicator.
-        default_keys = ['green', 'pedestrian_friendly', 'disability_friendly', 'air_quality']
-        mean_counts = {k: (sum_counts[k] / n_segments if n_segments else 0) for k in default_keys}
+        #default_keys = ['green', 'pedestrian_friendly', 'disability_friendly', 'air_quality']
+        mean_counts = {k: (sum_counts[k] / n_segments if n_segments else 0) for k in all_keys}
         
         aqi_mapping = {
                 1: "Good",

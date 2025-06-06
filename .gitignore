@@ -179,7 +179,7 @@ cython_debug/
 /outputs/.DS_Store
 
 # folders and files
-./cache
-./dataset/instruction_llm.txt
+cache/
+dataset/instruction_llm.txt
 prova.ipynb
-./src/_pycache_
+src/__pycache__/
