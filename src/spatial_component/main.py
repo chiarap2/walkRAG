@@ -1,3 +1,4 @@
+from spatial_component.routing import routing_graphhopper
 import requests
 import osmnx as ox
 import geopandas as gpd
@@ -7,13 +8,12 @@ from geopy.geocoders import Nominatim
 from shapely.geometry import LineString, box
 import polyline
 import json
-from routing import routing_graphhopper
-from enrichment import pois, add_pois_areas_to_gdf, pollution_for_edge
-from describe_walkability import compute_walkability_score, aggregate_segment_pois_by_type
+from spatial_component.enrichment import pois, add_pois_areas_to_gdf, pollution_for_edge
+from spatial_component.describe_walkability import compute_walkability_score, aggregate_segment_pois_by_type
 
 # ----- CONFIGURATION -----
-OWM_API_KEY = "XXXXXXXxXXXXXX"  # OpenWeatherMap API key
-GRAPHHOPPER_API = "XXXXXXXxXXXXXX"  # GraphHopper API key
+OWM_API_KEY = "86f3b5265ec1d4daf3434cad93141670"  # OpenWeatherMap API key
+GRAPHHOPPER_API = "3d3fdeee-0b60-4240-a648-1b0c0175b719"  # GraphHopper API key
 # Lists for category matching
 GREEN_TAGS = {
     'leisure': {'park', 'nature_reserve', 'garden'},
@@ -31,11 +31,11 @@ MAX_COUNT = 5  # Maximum count for each indicator
 def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=None):
     # ----- INITIALIZATION -----
     # Define two places and a city name
-    place_A = "Leaning tower, Pisa, Italy" # this is the starting point given by the prompt
-    place_B = "Piazza Vittorio Emanuele II, Pisa, Italy" # this is the destination given by the prompt
-    city = "Pisa"
+    # place_A = "Leaning tower, Pisa, Italy" # this is the starting point given by the prompt
+    # place_B = "Piazza Vittorio Emanuele II, Pisa, Italy" # this is the destination given by the prompt
+    # city = "Pisa"
 
-    geolocator = Nominatim(user_agent="my_app")
+    geolocator = Nominatim(user_agent="my_app", timeout=10)
     locA = geolocator.geocode(place_A)
     locB = geolocator.geocode(place_B)
     latA, lonA = locA.latitude, locA.longitude
@@ -122,7 +122,8 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
     cols = ['geometry', 'segment_id', 'name']
     for key in walkability_indicators.keys():
         cols.append(key)
-    routes_gdf = routes_gdf.drop_duplicates(subset=[cols])
+    cols = [col for col in cols if col in routes_gdf.columns]
+    routes_gdf = routes_gdf.drop_duplicates(subset=cols)
     
     for key in walkability_indicators.keys():
         if key in routes_gdf.columns:
@@ -174,7 +175,7 @@ def spatialComponent(place_A, place_B, indicators_preference=None, pois_user=Non
         
             # Use the first row's instruction as the segment instruction (default to "N/A" if missing).
             instruction = seg_group["instruction"].iloc[0] if "instruction" in seg_group.columns and pd.notna(seg_group["instruction"].iloc[0]) else "N/A"
-            categories_list = pois_list
+            categories_list = list(pois_list)
             categories_list = categories_list + ["leisure", "natural"]
             
             poi_details = aggregate_segment_pois_by_type(seg_group, detailed_categories=categories_list)

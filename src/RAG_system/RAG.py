@@ -10,10 +10,10 @@ class RAG:
 
         self.encoder = self.load_encoder(cache_dir, encoder_id)
         self.tokenizer = self.load_tokenizer(cache_dir, encoder_id)
-        self.index = self.load_index(data_path)
+        self.index = False#self.load_index(data_path)
         self.llm_tokenizer = llm_tokenizer
         self.llm_model = llm_model
-        self.index_id, self.id_corpus = self.load_corpus(data_path)
+        self.index_id, self.id_corpus = False, False#self.load_corpus(data_path)
         
     @staticmethod
     def load_index(data_path):

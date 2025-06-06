@@ -38,6 +38,7 @@ class QUAG:
 
     def handle_query(self, query):
         classification = self.classify_intent(query)
+        print(classification)
         if "Spatial Request" in classification:
             
             place_from = re.search(r'From:\s*(.*)\\n', classification)
@@ -48,8 +49,8 @@ class QUAG:
             
             json_path = spatialComponent(place_A=place_from.group(1).strip() if place_from else None,
                                          place_B=place_to.group(1).strip() if place_to else None,
-                                         walkability_indicators=walkability_indicators.group(1).strip() if walkability_indicators else None,
-                                         poi_categories=poi_categories.group(1).strip() if poi_categories else None)
+                                         indicators_preference=walkability_indicators.group(1).strip() if walkability_indicators else None,
+                                         pois_user=list(poi_categories.group(1).strip()) if poi_categories else None)
             if not json_path:
                 return "No valid route found or required file missing."
             
