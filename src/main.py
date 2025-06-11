@@ -5,8 +5,8 @@ from RAG_system.RAG import RAG
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,2"
 
-data_path = '../../../raid/mamendola/SSTD/'
-cache_dir = '../../../raid/mamendola/'
+data_path = 'INSERT_YOUR_PATH'
+cache_dir = 'INSERT_YOUR_PATH'
 encoder_id = 'Snowflake/snowflake-arctic-embed-l-v2.0'
 
 # Load LLM model
